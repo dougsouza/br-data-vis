@@ -1,22 +1,9 @@
 {
   "name": "brazil-data-vis",
-  "version": "1.0.0",
-  "description": "",
-  "main": "server.js",
+  "version": "0.0.1",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/dougsouza/brazil-data-vis.git"
-  },
-  "author": "Douglas Souza",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/dougsouza/brazil-data-vis/issues"
-  },
-  "homepage": "https://github.com/dougsouza/brazil-data-vis#readme",
   "dependencies": {
     "angular": "^1.6.4",
     "body-parser": "^1.17.2",

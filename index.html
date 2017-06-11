@@ -1,16 +1,50 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-	<meta charset="UTF-8">
-	<title>Document</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>Data Visualization</title>
+
+    <!-- dependencies -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.4/jquery.min.js"></script>
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+    <script src="node_modules/d3/d3.js"></script>
+    <script src="node_modules/d3-geo-projection/d3.geo.projection.js"></script>
+    <script src="node_modules/topojson/build/topojson.js"></script>
+    <script src="node_modules/datamaps/dist/datamaps.all.min.js"></script>
+
+    <link rel="stylesheet" href="index.css">
 </head>
 
 
 <body>
-	<a href="/map">BR MAP</a>
-    <br />
-    <a href="/time_series">TIME SERIES PLOT</a>
-</body>
+    <div class="container-fluid h-100">
+        <!-- visualizations -->
+        <div class="row" id="visualizations">
+            <div class="col-md-6 h-100" id="map-container">
+                <p>Map</p>
+            </div>
 
+            <div class="col-md-6 h-100" id="details-container">
+                <p>Details</p>
+                <h1 id="details-state-name"></h1>
+            </div>
+        </div>
+
+        <!-- timeline control -->
+        <div class="row centered" id="timeline">
+            <div class="col-md-11">
+                <input type="range" id="timeline-slider" min="2008" max="2015" value="2008" step="1">
+            </div>
+            <div class="col-md-1">
+                <h3 id="slider-value" style="text-align:center"></h3>
+            </div>
+        </div>
+    </div>
+
+    <script src="index.js"></script>
+</body>
 
 </html>
