@@ -22,24 +22,33 @@
 <body>
     <div class="container-fluid h-100">
         <!-- visualizations -->
-        <div class="row" id="visualizations">
-            <div class="col-md-6 h-100" id="map-container">
-                <p>Map</p>
+        <div class="row h-90">
+            <div class="col-md-6 h-100">
+                <div class="row h-10 visualization-title-border">
+                    <h1 class="text-center visualization-title">MAP</h1>
+                </div>
+                <div class="row h-90" id="map-container">
+                </div>
             </div>
 
-            <div class="col-md-6 h-100" id="details-container">
-                <p>Details</p>
-                <h1 id="details-state-name"></h1>
+            <div class="col-md-6 h-100">
+                <div class="row h-10 visualization-title-border">
+                    <h1 class="text-center visualization-title">DETAILS</h1>
+                </div>
+                <div class="row h-90" id="details-container">
+                    <h1 class="text-center" id="details-state-name"></h1>
+                    <div id="chart"></div>
+                </div>
             </div>
         </div>
 
         <!-- timeline control -->
-        <div class="row centered" id="timeline">
+        <div class="row h-10" id="timeline">
             <div class="col-md-11">
-                <input type="range" id="timeline-slider" min="2008" max="2015" value="2008" step="1">
+                <input type="range" id="timeline-slider" min="1995" max="2015" value="1995" step="1">
             </div>
             <div class="col-md-1">
-                <h3 id="slider-value" style="text-align:center"></h3>
+                <h1 id="slider-value" class="text-center"></h1>
             </div>
         </div>
     </div>

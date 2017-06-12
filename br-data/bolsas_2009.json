@@ -1,0 +1,7744 @@
+[
+  {
+    "key": "AC", 
+    "total": 147, 
+    "values": [
+      {
+        "key": "CIÊNCIAS AGRÁRIAS", 
+        "values": [
+          {
+            "key": "AGRONOMIA", 
+            "value": 24
+          }, 
+          {
+            "key": "ENGENHARIA AGRÍCOLA", 
+            "value": 1
+          }, 
+          {
+            "key": "RECURSOS FLORESTAIS E ENGENHARIA FLORESTAL", 
+            "value": 2
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS BIOLÓGICAS", 
+        "values": [
+          {
+            "key": "ECOLOGIA", 
+            "value": 22
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS DA SAÚDE", 
+        "values": [
+          {
+            "key": "SAÚDE COLETIVA", 
+            "value": 2
+          }, 
+          {
+            "key": "SAÚDE PÚBLICA", 
+            "value": 14
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS EXATAS E DA TERRA", 
+        "values": [
+          {
+            "key": "QUÍMICA DOS PRODUTOS NATURAIS", 
+            "value": 1
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS HUMANAS", 
+        "values": [
+          {
+            "key": "CIÊNCIA POLÍTICA", 
+            "value": 1
+          }, 
+          {
+            "key": "EDUCAÇÃO", 
+            "value": 18
+          }, 
+          {
+            "key": "FILOSOFIA", 
+            "value": 1
+          }, 
+          {
+            "key": "GEOGRAFIA", 
+            "value": 2
+          }, 
+          {
+            "key": "HISTÓRIA DO BRASIL", 
+            "value": 1
+          }, 
+          {
+            "key": "SOCIOLOGIA", 
+            "value": 1
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS SOCIAIS APLICADAS", 
+        "values": [
+          {
+            "key": "ADMINISTRAÇÃO", 
+            "value": 1
+          }, 
+          {
+            "key": "ECONOMIA", 
+            "value": 1
+          }
+        ]
+      }, 
+      {
+        "key": "Grande Area Não Informada", 
+        "values": [
+          {
+            "key": "Área Não Informada", 
+            "value": 11
+          }
+        ]
+      }, 
+      {
+        "key": "LINGÜÍSTICA, LETRAS E ARTES", 
+        "values": [
+          {
+            "key": "LETRAS", 
+            "value": 23
+          }, 
+          {
+            "key": "LINGÜÍSTICA", 
+            "value": 1
+          }
+        ]
+      }, 
+      {
+        "key": "MULTIDISCIPLINAR", 
+        "values": [
+          {
+            "key": "ENSINO DE CIÊNCIAS E MATEMÁTICA", 
+            "value": 1
+          }, 
+          {
+            "key": "MEIO AMBIENTE E AGRÁRIAS", 
+            "value": 19
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "key": "AL", 
+    "total": 331, 
+    "values": [
+      {
+        "key": "CIÊNCIAS AGRÁRIAS", 
+        "values": [
+          {
+            "key": "AGRONOMIA", 
+            "value": 23
+          }, 
+          {
+            "key": "CIÊNCIA E TECNOLOGIA DE ALIMENTOS", 
+            "value": 1
+          }, 
+          {
+            "key": "ZOOTECNIA", 
+            "value": 2
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS BIOLÓGICAS", 
+        "values": [
+          {
+            "key": "BIOLOGIA GERAL", 
+            "value": 2
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS DA SAÚDE", 
+        "values": [
+          {
+            "key": "CLÍNICA ODONTOLÓGICA", 
+            "value": 2
+          }, 
+          {
+            "key": "DOENÇAS INFECCIOSAS E PARASITÁRIAS", 
+            "value": 18
+          }, 
+          {
+            "key": "ENFERMAGEM", 
+            "value": 1
+          }, 
+          {
+            "key": "NUTRIÇÃO", 
+            "value": 14
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS EXATAS E DA TERRA", 
+        "values": [
+          {
+            "key": "CIÊNCIA DA COMPUTAÇÃO", 
+            "value": 1
+          }, 
+          {
+            "key": "FÍSICA DA MATÉRIA CONDENSADA", 
+            "value": 41
+          }, 
+          {
+            "key": "GEOCIÊNCIAS", 
+            "value": 8
+          }, 
+          {
+            "key": "MATEMÁTICA", 
+            "value": 20
+          }, 
+          {
+            "key": "OCEANOGRAFIA", 
+            "value": 1
+          }, 
+          {
+            "key": "QUÍMICA ORGÂNICA", 
+            "value": 41
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS HUMANAS", 
+        "values": [
+          {
+            "key": "EDUCAÇÃO", 
+            "value": 21
+          }, 
+          {
+            "key": "EDUCAÇÃO DE ADULTOS", 
+            "value": 1
+          }, 
+          {
+            "key": "PLANEJAMENTO EDUCACIONAL", 
+            "value": 1
+          }, 
+          {
+            "key": "PSICOLOGIA", 
+            "value": 1
+          }, 
+          {
+            "key": "SOCIOLOGIA", 
+            "value": 4
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS SOCIAIS APLICADAS", 
+        "values": [
+          {
+            "key": "ADMINISTRAÇÃO", 
+            "value": 1
+          }, 
+          {
+            "key": "ARQUITETURA E URBANISMO", 
+            "value": 22
+          }, 
+          {
+            "key": "DIREITO", 
+            "value": 3
+          }, 
+          {
+            "key": "ECONOMIA", 
+            "value": 4
+          }, 
+          {
+            "key": "SERVIÇO SOCIAL", 
+            "value": 3
+          }
+        ]
+      }, 
+      {
+        "key": "ENGENHARIAS", 
+        "values": [
+          {
+            "key": "ENGENHARIA CIVIL", 
+            "value": 10
+          }, 
+          {
+            "key": "ENGENHARIA ELÉTRICA", 
+            "value": 1
+          }, 
+          {
+            "key": "ENGENHARIA MECÂNICA", 
+            "value": 3
+          }, 
+          {
+            "key": "ENGENHARIA QUÍMICA", 
+            "value": 15
+          }, 
+          {
+            "key": "ENGENHARIA SANITÁRIA", 
+            "value": 12
+          }
+        ]
+      }, 
+      {
+        "key": "Grande Area Não Informada", 
+        "values": [
+          {
+            "key": "Área Não Informada", 
+            "value": 8
+          }
+        ]
+      }, 
+      {
+        "key": "LINGÜÍSTICA, LETRAS E ARTES", 
+        "values": [
+          {
+            "key": "LETRAS", 
+            "value": 32
+          }
+        ]
+      }, 
+      {
+        "key": "MULTIDISCIPLINAR", 
+        "values": [
+          {
+            "key": "ENGENHARIA/TECNOLOGIA/GESTÃO", 
+            "value": 11
+          }, 
+          {
+            "key": "MEIO AMBIENTE E AGRÁRIAS", 
+            "value": 3
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "key": "AM", 
+    "total": 713, 
+    "values": [
+      {
+        "key": "CIÊNCIAS AGRÁRIAS", 
+        "values": [
+          {
+            "key": "AGRONOMIA", 
+            "value": 43
+          }, 
+          {
+            "key": "CIÊNCIA E TECNOLOGIA DE ALIMENTOS", 
+            "value": 7
+          }, 
+          {
+            "key": "MANEJO FLORESTAL", 
+            "value": 30
+          }, 
+          {
+            "key": "RECURSOS FLORESTAIS E ENGENHARIA FLORESTAL", 
+            "value": 24
+          }, 
+          {
+            "key": "RECURSOS PESQUEIROS E ENGENHARIA DE PESCA", 
+            "value": 15
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS BIOLÓGICAS", 
+        "values": [
+          {
+            "key": "BIOLOGIA GERAL", 
+            "value": 27
+          }, 
+          {
+            "key": "BOTÂNICA", 
+            "value": 16
+          }, 
+          {
+            "key": "ECOLOGIA", 
+            "value": 46
+          }, 
+          {
+            "key": "GENÉTICA", 
+            "value": 20
+          }, 
+          {
+            "key": "IMUNOLOGIA", 
+            "value": 3
+          }, 
+          {
+            "key": "ZOOLOGIA", 
+            "value": 28
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS DA SAÚDE", 
+        "values": [
+          {
+            "key": "DOENÇAS INFECCIOSAS E PARASITÁRIAS", 
+            "value": 24
+          }, 
+          {
+            "key": "EDUCAÇÃO FÍSICA", 
+            "value": 1
+          }, 
+          {
+            "key": "FARMÁCIA", 
+            "value": 6
+          }, 
+          {
+            "key": "ODONTOLOGIA", 
+            "value": 10
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS EXATAS E DA TERRA", 
+        "values": [
+          {
+            "key": "CIÊNCIA DA COMPUTAÇÃO", 
+            "value": 23
+          }, 
+          {
+            "key": "FÍSICA", 
+            "value": 13
+          }, 
+          {
+            "key": "GEOCIÊNCIAS", 
+            "value": 30
+          }, 
+          {
+            "key": "MATEMÁTICA", 
+            "value": 7
+          }, 
+          {
+            "key": "MATEMÁTICA APLICADA", 
+            "value": 2
+          }, 
+          {
+            "key": "QUÍMICA", 
+            "value": 2
+          }, 
+          {
+            "key": "QUÍMICA DOS PRODUTOS NATURAIS", 
+            "value": 26
+          }, 
+          {
+            "key": "QUÍMICA ORGÂNICA", 
+            "value": 1
+          }, 
+          {
+            "key": "SISTEMA DE COMPUTAÇÃO", 
+            "value": 1
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS HUMANAS", 
+        "values": [
+          {
+            "key": "ANTROPOLOGIA", 
+            "value": 11
+          }, 
+          {
+            "key": "EDUCAÇÃO", 
+            "value": 13
+          }, 
+          {
+            "key": "GEOGRAFIA", 
+            "value": 15
+          }, 
+          {
+            "key": "HISTÓRIA", 
+            "value": 7
+          }, 
+          {
+            "key": "PSICOLOGIA", 
+            "value": 24
+          }, 
+          {
+            "key": "SOCIOLOGIA", 
+            "value": 18
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS SOCIAIS APLICADAS", 
+        "values": [
+          {
+            "key": "COMUNICAÇÃO", 
+            "value": 4
+          }, 
+          {
+            "key": "DIREITO", 
+            "value": 12
+          }, 
+          {
+            "key": "SERVIÇO SOCIAL", 
+            "value": 9
+          }
+        ]
+      }, 
+      {
+        "key": "ENGENHARIAS", 
+        "values": [
+          {
+            "key": "APROVEITAMENTO DE ENERGIA", 
+            "value": 5
+          }, 
+          {
+            "key": "ENGENHARIA CIVIL", 
+            "value": 13
+          }, 
+          {
+            "key": "ENGENHARIA ELÉTRICA", 
+            "value": 37
+          }, 
+          {
+            "key": "ENGENHARIA MECÂNICA", 
+            "value": 22
+          }
+        ]
+      }, 
+      {
+        "key": "Grande Area Não Informada", 
+        "values": [
+          {
+            "key": "Área Não Informada", 
+            "value": 22
+          }
+        ]
+      }, 
+      {
+        "key": "LINGÜÍSTICA, LETRAS E ARTES", 
+        "values": [
+          {
+            "key": "LETRAS", 
+            "value": 2
+          }, 
+          {
+            "key": "LINGÜÍSTICA", 
+            "value": 18
+          }
+        ]
+      }, 
+      {
+        "key": "MULTIDISCIPLINAR", 
+        "values": [
+          {
+            "key": "BIOTECNOLOGIA", 
+            "value": 31
+          }, 
+          {
+            "key": "ENSINO DE CIÊNCIAS E MATEMÁTICA", 
+            "value": 1
+          }, 
+          {
+            "key": "MEIO AMBIENTE E AGRÁRIAS", 
+            "value": 13
+          }, 
+          {
+            "key": "SAÚDE E BIOLÓGICAS", 
+            "value": 12
+          }, 
+          {
+            "key": "SOCIAIS E HUMANIDADES", 
+            "value": 19
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "key": "AP", 
+    "total": 29, 
+    "values": [
+      {
+        "key": "CIÊNCIAS BIOLÓGICAS", 
+        "values": [
+          {
+            "key": "ECOLOGIA", 
+            "value": 10
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS HUMANAS", 
+        "values": [
+          {
+            "key": "EDUCAÇÃO", 
+            "value": 1
+          }, 
+          {
+            "key": "HISTÓRIA", 
+            "value": 2
+          }, 
+          {
+            "key": "PSICOLOGIA", 
+            "value": 1
+          }, 
+          {
+            "key": "SOCIOLOGIA", 
+            "value": 2
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS SOCIAIS APLICADAS", 
+        "values": [
+          {
+            "key": "PLANEJAMENTO URBANO E REGIONAL", 
+            "value": 6
+          }
+        ]
+      }, 
+      {
+        "key": "Grande Area Não Informada", 
+        "values": [
+          {
+            "key": "Área Não Informada", 
+            "value": 3
+          }
+        ]
+      }, 
+      {
+        "key": "MULTIDISCIPLINAR", 
+        "values": [
+          {
+            "key": "SOCIAIS E HUMANIDADES", 
+            "value": 4
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "key": "BA", 
+    "total": 1719, 
+    "values": [
+      {
+        "key": "CIÊNCIAS AGRÁRIAS", 
+        "values": [
+          {
+            "key": "AGRONOMIA", 
+            "value": 144
+          }, 
+          {
+            "key": "CIÊNCIA DE ALIMENTOS", 
+            "value": 7
+          }, 
+          {
+            "key": "CIÊNCIA E TECNOLOGIA DE ALIMENTOS", 
+            "value": 3
+          }, 
+          {
+            "key": "ENGENHARIA AGRÍCOLA", 
+            "value": 1
+          }, 
+          {
+            "key": "ENGENHARIA DE ALIMENTOS", 
+            "value": 17
+          }, 
+          {
+            "key": "FITOTECNIA", 
+            "value": 11
+          }, 
+          {
+            "key": "MEDICINA VETERINÁRIA", 
+            "value": 44
+          }, 
+          {
+            "key": "RECURSOS PESQUEIROS E ENGENHARIA DE PESCA", 
+            "value": 1
+          }, 
+          {
+            "key": "ZOOTECNIA", 
+            "value": 52
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS BIOLÓGICAS", 
+        "values": [
+          {
+            "key": "BIOLOGIA GERAL", 
+            "value": 6
+          }, 
+          {
+            "key": "BOTÂNICA", 
+            "value": 27
+          }, 
+          {
+            "key": "ECOLOGIA", 
+            "value": 32
+          }, 
+          {
+            "key": "ECOLOGIA DE ECOSSISTEMAS", 
+            "value": 12
+          }, 
+          {
+            "key": "GENÉTICA", 
+            "value": 49
+          }, 
+          {
+            "key": "IMUNOLOGIA", 
+            "value": 33
+          }, 
+          {
+            "key": "ZOOLOGIA", 
+            "value": 37
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS DA SAÚDE", 
+        "values": [
+          {
+            "key": "ANATOMIA PATOLÓGICA E PATOLOGIA CLÍNICA", 
+            "value": 20
+          }, 
+          {
+            "key": "CLÍNICA MÉDICA", 
+            "value": 38
+          }, 
+          {
+            "key": "ENFERMAGEM", 
+            "value": 21
+          }, 
+          {
+            "key": "ENFERMAGEM DE SAÚDE PÚBLICA", 
+            "value": 2
+          }, 
+          {
+            "key": "FARMÁCIA", 
+            "value": 4
+          }, 
+          {
+            "key": "MEDICINA", 
+            "value": 10
+          }, 
+          {
+            "key": "NEUROLOGIA", 
+            "value": 1
+          }, 
+          {
+            "key": "NUTRIÇÃO", 
+            "value": 10
+          }, 
+          {
+            "key": "ODONTOLOGIA", 
+            "value": 14
+          }, 
+          {
+            "key": "RADIOLOGIA MÉDICA", 
+            "value": 2
+          }, 
+          {
+            "key": "SAÚDE COLETIVA", 
+            "value": 38
+          }, 
+          {
+            "key": "SAÚDE PÚBLICA", 
+            "value": 3
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS EXATAS E DA TERRA", 
+        "values": [
+          {
+            "key": "CIÊNCIA DA COMPUTAÇÃO", 
+            "value": 4
+          }, 
+          {
+            "key": "ESTATÍSTICA", 
+            "value": 1
+          }, 
+          {
+            "key": "FÍSICA", 
+            "value": 31
+          }, 
+          {
+            "key": "GEOFÍSICA", 
+            "value": 22
+          }, 
+          {
+            "key": "GEOLOGIA", 
+            "value": 22
+          }, 
+          {
+            "key": "GEOQUÍMICA", 
+            "value": 5
+          }, 
+          {
+            "key": "MATEMÁTICA", 
+            "value": 14
+          }, 
+          {
+            "key": "QUÍMICA", 
+            "value": 53
+          }, 
+          {
+            "key": "QUÍMICA ANALÍTICA", 
+            "value": 12
+          }, 
+          {
+            "key": "TELEINFORMÁTICA", 
+            "value": 9
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS HUMANAS", 
+        "values": [
+          {
+            "key": "ANTROPOLOGIA", 
+            "value": 10
+          }, 
+          {
+            "key": "EDUCAÇÃO", 
+            "value": 69
+          }, 
+          {
+            "key": "FILOSOFIA", 
+            "value": 22
+          }, 
+          {
+            "key": "GEOGRAFIA", 
+            "value": 12
+          }, 
+          {
+            "key": "HISTÓRIA", 
+            "value": 35
+          }, 
+          {
+            "key": "HISTÓRIA DO BRASIL", 
+            "value": 9
+          }, 
+          {
+            "key": "OUTRAS SOCIOLOGIAS ESPECÍFICAS", 
+            "value": 1
+          }, 
+          {
+            "key": "PSICOLOGIA", 
+            "value": 23
+          }, 
+          {
+            "key": "SOCIOLOGIA", 
+            "value": 28
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS SOCIAIS APLICADAS", 
+        "values": [
+          {
+            "key": "ADMINISTRAÇÃO", 
+            "value": 3
+          }, 
+          {
+            "key": "ADMINISTRAÇÃO PÚBLICA", 
+            "value": 26
+          }, 
+          {
+            "key": "ARQUITETURA E URBANISMO", 
+            "value": 25
+          }, 
+          {
+            "key": "CIÊNCIA DA INFORMAÇÃO", 
+            "value": 8
+          }, 
+          {
+            "key": "CIÊNCIAS CONTÁBEIS", 
+            "value": 4
+          }, 
+          {
+            "key": "COMUNICAÇÃO", 
+            "value": 27
+          }, 
+          {
+            "key": "DIREITO", 
+            "value": 14
+          }, 
+          {
+            "key": "ECONOMIA", 
+            "value": 12
+          }, 
+          {
+            "key": "PLANEJAMENTO URBANO E REGIONAL", 
+            "value": 4
+          }, 
+          {
+            "key": "SERVIÇO SOCIAL", 
+            "value": 3
+          }
+        ]
+      }, 
+      {
+        "key": "ENGENHARIAS", 
+        "values": [
+          {
+            "key": "ENGENHARIA CIVIL", 
+            "value": 10
+          }, 
+          {
+            "key": "ENGENHARIA DE PRODUÇÃO", 
+            "value": 17
+          }, 
+          {
+            "key": "ENGENHARIA ELÉTRICA", 
+            "value": 13
+          }, 
+          {
+            "key": "ENGENHARIA MECÂNICA", 
+            "value": 38
+          }, 
+          {
+            "key": "ENGENHARIA QUÍMICA", 
+            "value": 30
+          }, 
+          {
+            "key": "ENGENHARIA SANITÁRIA", 
+            "value": 18
+          }, 
+          {
+            "key": "GEOTÉCNICA", 
+            "value": 1
+          }
+        ]
+      }, 
+      {
+        "key": "Grande Area Não Informada", 
+        "values": [
+          {
+            "key": "Área Não Informada", 
+            "value": 56
+          }
+        ]
+      }, 
+      {
+        "key": "LINGÜÍSTICA, LETRAS E ARTES", 
+        "values": [
+          {
+            "key": "ARTES", 
+            "value": 52
+          }, 
+          {
+            "key": "DANÇA", 
+            "value": 9
+          }, 
+          {
+            "key": "LETRAS", 
+            "value": 75
+          }, 
+          {
+            "key": "MÚSICA", 
+            "value": 39
+          }
+        ]
+      }, 
+      {
+        "key": "MULTIDISCIPLINAR", 
+        "values": [
+          {
+            "key": "BIOTECNOLOGIA", 
+            "value": 33
+          }, 
+          {
+            "key": "ENGENHARIA/TECNOLOGIA/GESTÃO", 
+            "value": 11
+          }, 
+          {
+            "key": "ENSINO DE CIÊNCIAS E MATEMÁTICA", 
+            "value": 32
+          }, 
+          {
+            "key": "MATERIAIS", 
+            "value": 20
+          }, 
+          {
+            "key": "MEIO AMBIENTE E AGRÁRIAS", 
+            "value": 21
+          }, 
+          {
+            "key": "SAÚDE E BIOLÓGICAS", 
+            "value": 8
+          }, 
+          {
+            "key": "SOCIAIS E HUMANIDADES", 
+            "value": 89
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "key": "CE", 
+    "total": 1320, 
+    "values": [
+      {
+        "key": "CIÊNCIAS AGRÁRIAS", 
+        "values": [
+          {
+            "key": "AGRONOMIA", 
+            "value": 15
+          }, 
+          {
+            "key": "CIÊNCIA DO SOLO", 
+            "value": 15
+          }, 
+          {
+            "key": "FITOTECNIA", 
+            "value": 24
+          }, 
+          {
+            "key": "IRRIGAÇÃO E DRENAGEM", 
+            "value": 17
+          }, 
+          {
+            "key": "MEDICINA VETERINÁRIA", 
+            "value": 38
+          }, 
+          {
+            "key": "RECURSOS PESQUEIROS E ENGENHARIA DE PESCA", 
+            "value": 23
+          }, 
+          {
+            "key": "TECNOLOGIA DE ALIMENTOS", 
+            "value": 19
+          }, 
+          {
+            "key": "ZOOTECNIA", 
+            "value": 25
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS BIOLÓGICAS", 
+        "values": [
+          {
+            "key": "BIOQUÍMICA", 
+            "value": 43
+          }, 
+          {
+            "key": "ECOLOGIA", 
+            "value": 17
+          }, 
+          {
+            "key": "FARMACOLOGIA", 
+            "value": 36
+          }, 
+          {
+            "key": "FISIOLOGIA", 
+            "value": 13
+          }, 
+          {
+            "key": "MICROBIOLOGIA", 
+            "value": 14
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS DA SAÚDE", 
+        "values": [
+          {
+            "key": "ANATOMIA PATOLÓGICA E PATOLOGIA CLÍNICA", 
+            "value": 7
+          }, 
+          {
+            "key": "CIRURGIA", 
+            "value": 16
+          }, 
+          {
+            "key": "ENFERMAGEM", 
+            "value": 40
+          }, 
+          {
+            "key": "FARMÁCIA", 
+            "value": 3
+          }, 
+          {
+            "key": "GINECOLOGIA E OBSTETRÍCIA", 
+            "value": 2
+          }, 
+          {
+            "key": "MEDICINA", 
+            "value": 14
+          }, 
+          {
+            "key": "NEUROLOGIA", 
+            "value": 5
+          }, 
+          {
+            "key": "NUTRIÇÃO", 
+            "value": 1
+          }, 
+          {
+            "key": "ODONTOLOGIA", 
+            "value": 16
+          }, 
+          {
+            "key": "PEDIATRIA", 
+            "value": 1
+          }, 
+          {
+            "key": "SAÚDE COLETIVA", 
+            "value": 21
+          }, 
+          {
+            "key": "SAÚDE PÚBLICA", 
+            "value": 11
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS EXATAS E DA TERRA", 
+        "values": [
+          {
+            "key": "CIÊNCIA DA COMPUTAÇÃO", 
+            "value": 41
+          }, 
+          {
+            "key": "ESTATÍSTICA", 
+            "value": 1
+          }, 
+          {
+            "key": "FÍSICA DA MATÉRIA CONDENSADA", 
+            "value": 29
+          }, 
+          {
+            "key": "GEOCIÊNCIAS", 
+            "value": 18
+          }, 
+          {
+            "key": "MATEMÁTICA", 
+            "value": 32
+          }, 
+          {
+            "key": "OCEANOGRAFIA BIOLÓGICA", 
+            "value": 17
+          }, 
+          {
+            "key": "QUÍMICA", 
+            "value": 2
+          }, 
+          {
+            "key": "QUÍMICA INORGÂNICA", 
+            "value": 7
+          }, 
+          {
+            "key": "QUÍMICA ORGÂNICA", 
+            "value": 56
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS HUMANAS", 
+        "values": [
+          {
+            "key": "EDUCAÇÃO", 
+            "value": 56
+          }, 
+          {
+            "key": "EDUCAÇÃO DE ADULTOS", 
+            "value": 1
+          }, 
+          {
+            "key": "FILOSOFIA", 
+            "value": 25
+          }, 
+          {
+            "key": "GEOGRAFIA", 
+            "value": 24
+          }, 
+          {
+            "key": "HISTÓRIA", 
+            "value": 29
+          }, 
+          {
+            "key": "PSICOLOGIA", 
+            "value": 15
+          }, 
+          {
+            "key": "SOCIOLOGIA", 
+            "value": 53
+          }, 
+          {
+            "key": "TEOLOGIA", 
+            "value": 1
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS SOCIAIS APLICADAS", 
+        "values": [
+          {
+            "key": "ADMINISTRAÇÃO", 
+            "value": 13
+          }, 
+          {
+            "key": "COMUNICAÇÃO", 
+            "value": 6
+          }, 
+          {
+            "key": "DIREITO PÚBLICO", 
+            "value": 12
+          }, 
+          {
+            "key": "ECONOMIA", 
+            "value": 19
+          }, 
+          {
+            "key": "ECONOMIA AGRÁRIA", 
+            "value": 8
+          }
+        ]
+      }, 
+      {
+        "key": "ENGENHARIAS", 
+        "values": [
+          {
+            "key": "ENGENHARIA CIVIL", 
+            "value": 39
+          }, 
+          {
+            "key": "ENGENHARIA DE MATERIAIS E METALÚRGICA", 
+            "value": 2
+          }, 
+          {
+            "key": "ENGENHARIA DE PRODUÇÃO", 
+            "value": 10
+          }, 
+          {
+            "key": "ENGENHARIA DE TRANSPORTES", 
+            "value": 14
+          }, 
+          {
+            "key": "ENGENHARIA ELÉTRICA", 
+            "value": 69
+          }, 
+          {
+            "key": "ENGENHARIA MECÂNICA", 
+            "value": 12
+          }, 
+          {
+            "key": "ENGENHARIA SANITÁRIA", 
+            "value": 6
+          }, 
+          {
+            "key": "PROCESSOS INDUSTRIAIS DE ENGENHARIA QUÍMICA", 
+            "value": 29
+          }
+        ]
+      }, 
+      {
+        "key": "Grande Area Não Informada", 
+        "values": [
+          {
+            "key": "Área Não Informada", 
+            "value": 35
+          }
+        ]
+      }, 
+      {
+        "key": "LINGÜÍSTICA, LETRAS E ARTES", 
+        "values": [
+          {
+            "key": "ARTES", 
+            "value": 1
+          }, 
+          {
+            "key": "LETRAS", 
+            "value": 26
+          }, 
+          {
+            "key": "LINGÜÍSTICA", 
+            "value": 26
+          }, 
+          {
+            "key": "LITERATURA BRASILEIRA", 
+            "value": 1
+          }
+        ]
+      }, 
+      {
+        "key": "MULTIDISCIPLINAR", 
+        "values": [
+          {
+            "key": "BIOTECNOLOGIA", 
+            "value": 98
+          }, 
+          {
+            "key": "ENGENHARIA/TECNOLOGIA/GESTÃO", 
+            "value": 5
+          }, 
+          {
+            "key": "MATERIAIS", 
+            "value": 23
+          }, 
+          {
+            "key": "MEIO AMBIENTE E AGRÁRIAS", 
+            "value": 14
+          }, 
+          {
+            "key": "SAÚDE E BIOLÓGICAS", 
+            "value": 9
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "key": "DF", 
+    "total": 1054, 
+    "values": [
+      {
+        "key": "CIÊNCIAS AGRÁRIAS", 
+        "values": [
+          {
+            "key": "AGRONOMIA", 
+            "value": 38
+          }, 
+          {
+            "key": "MEDICINA VETERINÁRIA", 
+            "value": 2
+          }, 
+          {
+            "key": "RECURSOS FLORESTAIS E ENGENHARIA FLORESTAL", 
+            "value": 29
+          }, 
+          {
+            "key": "REPRODUÇÃO ANIMAL", 
+            "value": 19
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS BIOLÓGICAS", 
+        "values": [
+          {
+            "key": "BIOLOGIA GERAL", 
+            "value": 32
+          }, 
+          {
+            "key": "BOTÂNICA", 
+            "value": 16
+          }, 
+          {
+            "key": "ECOLOGIA", 
+            "value": 38
+          }, 
+          {
+            "key": "IMUNOLOGIA", 
+            "value": 17
+          }, 
+          {
+            "key": "ZOOLOGIA", 
+            "value": 49
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS DA SAÚDE", 
+        "values": [
+          {
+            "key": "DOENÇAS INFECCIOSAS E PARASITÁRIAS", 
+            "value": 6
+          }, 
+          {
+            "key": "EDUCAÇÃO FÍSICA", 
+            "value": 25
+          }, 
+          {
+            "key": "MEDICINA", 
+            "value": 18
+          }, 
+          {
+            "key": "NEUROLOGIA", 
+            "value": 19
+          }, 
+          {
+            "key": "NUTRIÇÃO", 
+            "value": 13
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS EXATAS E DA TERRA", 
+        "values": [
+          {
+            "key": "CIÊNCIA DA COMPUTAÇÃO", 
+            "value": 9
+          }, 
+          {
+            "key": "ESTATÍSTICA", 
+            "value": 1
+          }, 
+          {
+            "key": "FÍSICA", 
+            "value": 23
+          }, 
+          {
+            "key": "GEOCIÊNCIAS", 
+            "value": 10
+          }, 
+          {
+            "key": "GEOLOGIA", 
+            "value": 12
+          }, 
+          {
+            "key": "MATEMÁTICA", 
+            "value": 26
+          }, 
+          {
+            "key": "QUÍMICA", 
+            "value": 27
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS HUMANAS", 
+        "values": [
+          {
+            "key": "ANTROPOLOGIA", 
+            "value": 11
+          }, 
+          {
+            "key": "CIÊNCIA POLÍTICA", 
+            "value": 18
+          }, 
+          {
+            "key": "EDUCAÇÃO", 
+            "value": 22
+          }, 
+          {
+            "key": "FILOSOFIA", 
+            "value": 15
+          }, 
+          {
+            "key": "GEOGRAFIA", 
+            "value": 17
+          }, 
+          {
+            "key": "HISTÓRIA", 
+            "value": 22
+          }, 
+          {
+            "key": "POLÍTICA INTERNACIONAL", 
+            "value": 15
+          }, 
+          {
+            "key": "PSICOLOGIA", 
+            "value": 56
+          }, 
+          {
+            "key": "PSICOLOGIA DO DESENVOLVIMENTO HUMANO", 
+            "value": 15
+          }, 
+          {
+            "key": "SOCIOLOGIA", 
+            "value": 15
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS SOCIAIS APLICADAS", 
+        "values": [
+          {
+            "key": "ADMINISTRAÇÃO PÚBLICA", 
+            "value": 10
+          }, 
+          {
+            "key": "ARQUITETURA E URBANISMO", 
+            "value": 30
+          }, 
+          {
+            "key": "CIÊNCIA DA INFORMAÇÃO", 
+            "value": 15
+          }, 
+          {
+            "key": "CIÊNCIAS CONTÁBEIS", 
+            "value": 27
+          }, 
+          {
+            "key": "COMUNICAÇÃO", 
+            "value": 15
+          }, 
+          {
+            "key": "DIREITO", 
+            "value": 2
+          }, 
+          {
+            "key": "DIREITO PÚBLICO", 
+            "value": 12
+          }, 
+          {
+            "key": "ECONOMIA", 
+            "value": 26
+          }, 
+          {
+            "key": "SERVIÇO SOCIAL", 
+            "value": 7
+          }
+        ]
+      }, 
+      {
+        "key": "ENGENHARIAS", 
+        "values": [
+          {
+            "key": "ENGENHARIA CIVIL", 
+            "value": 9
+          }, 
+          {
+            "key": "ENGENHARIA DE TRANSPORTES", 
+            "value": 6
+          }, 
+          {
+            "key": "ENGENHARIA ELÉTRICA", 
+            "value": 26
+          }, 
+          {
+            "key": "ENGENHARIA MECÂNICA", 
+            "value": 34
+          }, 
+          {
+            "key": "ENGENHARIA SANITÁRIA", 
+            "value": 11
+          }, 
+          {
+            "key": "GEOTÉCNICA", 
+            "value": 14
+          }
+        ]
+      }, 
+      {
+        "key": "LINGÜÍSTICA, LETRAS E ARTES", 
+        "values": [
+          {
+            "key": "ARTES", 
+            "value": 9
+          }, 
+          {
+            "key": "LETRAS", 
+            "value": 22
+          }, 
+          {
+            "key": "LINGÜÍSTICA", 
+            "value": 9
+          }, 
+          {
+            "key": "LINGÜÍSTICA APLICADA", 
+            "value": 9
+          }, 
+          {
+            "key": "MÚSICA", 
+            "value": 11
+          }
+        ]
+      }, 
+      {
+        "key": "MULTIDISCIPLINAR", 
+        "values": [
+          {
+            "key": "BIOTECNOLOGIA", 
+            "value": 16
+          }, 
+          {
+            "key": "ENSINO DE CIÊNCIAS E MATEMÁTICA", 
+            "value": 4
+          }, 
+          {
+            "key": "MEIO AMBIENTE E AGRÁRIAS", 
+            "value": 60
+          }, 
+          {
+            "key": "SAÚDE E BIOLÓGICAS", 
+            "value": 12
+          }, 
+          {
+            "key": "SOCIAIS E HUMANIDADES", 
+            "value": 23
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "key": "ES", 
+    "total": 576, 
+    "values": [
+      {
+        "key": "CIÊNCIAS AGRÁRIAS", 
+        "values": [
+          {
+            "key": "AGRONOMIA", 
+            "value": 52
+          }, 
+          {
+            "key": "CIÊNCIA DE ALIMENTOS", 
+            "value": 2
+          }, 
+          {
+            "key": "CIÊNCIA E TECNOLOGIA DE ALIMENTOS", 
+            "value": 2
+          }, 
+          {
+            "key": "ENGENHARIA AGRÍCOLA", 
+            "value": 2
+          }, 
+          {
+            "key": "FITOTECNIA", 
+            "value": 3
+          }, 
+          {
+            "key": "MEDICINA VETERINÁRIA", 
+            "value": 13
+          }, 
+          {
+            "key": "MICROBIOLOGIA AGRÍCOLA", 
+            "value": 1
+          }, 
+          {
+            "key": "RECURSOS FLORESTAIS E ENGENHARIA FLORESTAL", 
+            "value": 11
+          }, 
+          {
+            "key": "ZOOTECNIA", 
+            "value": 4
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS BIOLÓGICAS", 
+        "values": [
+          {
+            "key": "BIOLOGIA GERAL", 
+            "value": 15
+          }, 
+          {
+            "key": "FISIOLOGIA", 
+            "value": 28
+          }, 
+          {
+            "key": "MICROBIOLOGIA", 
+            "value": 1
+          }, 
+          {
+            "key": "ZOOLOGIA", 
+            "value": 18
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS DA SAÚDE", 
+        "values": [
+          {
+            "key": "DOENÇAS INFECCIOSAS E PARASITÁRIAS", 
+            "value": 20
+          }, 
+          {
+            "key": "EDUCAÇÃO FÍSICA", 
+            "value": 7
+          }, 
+          {
+            "key": "ODONTOLOGIA", 
+            "value": 2
+          }, 
+          {
+            "key": "SAÚDE COLETIVA", 
+            "value": 10
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS EXATAS E DA TERRA", 
+        "values": [
+          {
+            "key": "CIÊNCIA DA COMPUTAÇÃO", 
+            "value": 25
+          }, 
+          {
+            "key": "ESTATÍSTICA", 
+            "value": 1
+          }, 
+          {
+            "key": "FÍSICA", 
+            "value": 29
+          }, 
+          {
+            "key": "GEOLOGIA", 
+            "value": 1
+          }, 
+          {
+            "key": "MATEMÁTICA", 
+            "value": 11
+          }, 
+          {
+            "key": "QUÍMICA", 
+            "value": 9
+          }, 
+          {
+            "key": "SISTEMA DE COMPUTAÇÃO", 
+            "value": 1
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS HUMANAS", 
+        "values": [
+          {
+            "key": "ANTROPOLOGIA", 
+            "value": 1
+          }, 
+          {
+            "key": "CIÊNCIA POLÍTICA", 
+            "value": 1
+          }, 
+          {
+            "key": "EDUCAÇÃO", 
+            "value": 41
+          }, 
+          {
+            "key": "FILOSOFIA", 
+            "value": 4
+          }, 
+          {
+            "key": "GEOGRAFIA", 
+            "value": 6
+          }, 
+          {
+            "key": "HISTÓRIA", 
+            "value": 14
+          }, 
+          {
+            "key": "PSICOLOGIA", 
+            "value": 34
+          }, 
+          {
+            "key": "SOCIOLOGIA", 
+            "value": 5
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS SOCIAIS APLICADAS", 
+        "values": [
+          {
+            "key": "ADMINISTRAÇÃO", 
+            "value": 11
+          }, 
+          {
+            "key": "ARQUITETURA E URBANISMO", 
+            "value": 7
+          }, 
+          {
+            "key": "CIÊNCIAS CONTÁBEIS", 
+            "value": 1
+          }, 
+          {
+            "key": "DESENHO INDUSTRIAL", 
+            "value": 2
+          }, 
+          {
+            "key": "DIREITO PROCESSUAL CIVIL", 
+            "value": 7
+          }, 
+          {
+            "key": "ECONOMIA", 
+            "value": 1
+          }, 
+          {
+            "key": "PLANEJAMENTO URBANO E REGIONAL", 
+            "value": 1
+          }, 
+          {
+            "key": "SERVIÇO SOCIAL", 
+            "value": 7
+          }, 
+          {
+            "key": "TEORIA ECONÔMICA", 
+            "value": 11
+          }
+        ]
+      }, 
+      {
+        "key": "ENGENHARIAS", 
+        "values": [
+          {
+            "key": "ENGENHARIA CIVIL", 
+            "value": 13
+          }, 
+          {
+            "key": "ENGENHARIA DE MATERIAIS E METALÚRGICA", 
+            "value": 5
+          }, 
+          {
+            "key": "ENGENHARIA DE PRODUÇÃO", 
+            "value": 3
+          }, 
+          {
+            "key": "ENGENHARIA ELÉTRICA", 
+            "value": 24
+          }, 
+          {
+            "key": "ENGENHARIA MECÂNICA", 
+            "value": 22
+          }, 
+          {
+            "key": "ENGENHARIA SANITÁRIA", 
+            "value": 23
+          }
+        ]
+      }, 
+      {
+        "key": "Grande Area Não Informada", 
+        "values": [
+          {
+            "key": "Área Não Informada", 
+            "value": 13
+          }
+        ]
+      }, 
+      {
+        "key": "LINGÜÍSTICA, LETRAS E ARTES", 
+        "values": [
+          {
+            "key": "ARTES", 
+            "value": 14
+          }, 
+          {
+            "key": "LETRAS", 
+            "value": 16
+          }, 
+          {
+            "key": "LINGÜÍSTICA", 
+            "value": 11
+          }, 
+          {
+            "key": "LINGÜÍSTICA APLICADA", 
+            "value": 1
+          }
+        ]
+      }, 
+      {
+        "key": "MULTIDISCIPLINAR", 
+        "values": [
+          {
+            "key": "BIOTECNOLOGIA", 
+            "value": 9
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "key": "GO", 
+    "total": 821, 
+    "values": [
+      {
+        "key": "CIÊNCIAS AGRÁRIAS", 
+        "values": [
+          {
+            "key": "AGRONOMIA", 
+            "value": 29
+          }, 
+          {
+            "key": "CIÊNCIA DO SOLO", 
+            "value": 1
+          }, 
+          {
+            "key": "CIÊNCIA E TECNOLOGIA DE ALIMENTOS", 
+            "value": 18
+          }, 
+          {
+            "key": "CLÍNICA VETERINÁRIA", 
+            "value": 1
+          }, 
+          {
+            "key": "ENGENHARIA AGRÍCOLA", 
+            "value": 15
+          }, 
+          {
+            "key": "MEDICINA VETERINÁRIA", 
+            "value": 53
+          }, 
+          {
+            "key": "MELHORAMENTO VEGETAL", 
+            "value": 31
+          }, 
+          {
+            "key": "ZOOTECNIA", 
+            "value": 1
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS BIOLÓGICAS", 
+        "values": [
+          {
+            "key": "BIOLOGIA GERAL", 
+            "value": 36
+          }, 
+          {
+            "key": "ECOLOGIA", 
+            "value": 31
+          }, 
+          {
+            "key": "GENÉTICA", 
+            "value": 5
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS DA SAÚDE", 
+        "values": [
+          {
+            "key": "ANATOMIA PATOLÓGICA E PATOLOGIA CLÍNICA", 
+            "value": 33
+          }, 
+          {
+            "key": "CLÍNICA ODONTOLÓGICA", 
+            "value": 12
+          }, 
+          {
+            "key": "DOENÇAS INFECCIOSAS E PARASITÁRIAS", 
+            "value": 28
+          }, 
+          {
+            "key": "EDUCAÇÃO FÍSICA", 
+            "value": 1
+          }, 
+          {
+            "key": "ENFERMAGEM", 
+            "value": 8
+          }, 
+          {
+            "key": "FARMÁCIA", 
+            "value": 21
+          }, 
+          {
+            "key": "NEUROLOGIA", 
+            "value": 1
+          }, 
+          {
+            "key": "NUTRIÇÃO", 
+            "value": 12
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS EXATAS E DA TERRA", 
+        "values": [
+          {
+            "key": "CIÊNCIA DA COMPUTAÇÃO", 
+            "value": 16
+          }, 
+          {
+            "key": "FÍSICA", 
+            "value": 28
+          }, 
+          {
+            "key": "GEODÉSIA", 
+            "value": 1
+          }, 
+          {
+            "key": "MATEMÁTICA", 
+            "value": 19
+          }, 
+          {
+            "key": "QUÍMICA", 
+            "value": 56
+          }, 
+          {
+            "key": "SENSORIAMENTO REMOTO", 
+            "value": 1
+          }, 
+          {
+            "key": "SISTEMA DE COMPUTAÇÃO", 
+            "value": 1
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS HUMANAS", 
+        "values": [
+          {
+            "key": "ANTROPOLOGIA", 
+            "value": 2
+          }, 
+          {
+            "key": "EDUCAÇÃO", 
+            "value": 31
+          }, 
+          {
+            "key": "FILOSOFIA", 
+            "value": 11
+          }, 
+          {
+            "key": "GEOGRAFIA", 
+            "value": 39
+          }, 
+          {
+            "key": "HISTÓRIA", 
+            "value": 34
+          }, 
+          {
+            "key": "PLANEJAMENTO EDUCACIONAL", 
+            "value": 1
+          }, 
+          {
+            "key": "SOCIOLOGIA", 
+            "value": 21
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS SOCIAIS APLICADAS", 
+        "values": [
+          {
+            "key": "COMUNICAÇÃO", 
+            "value": 9
+          }, 
+          {
+            "key": "DIREITO", 
+            "value": 1
+          }, 
+          {
+            "key": "DIREITO PÚBLICO", 
+            "value": 2
+          }
+        ]
+      }, 
+      {
+        "key": "ENGENHARIAS", 
+        "values": [
+          {
+            "key": "ENGENHARIA CIVIL", 
+            "value": 39
+          }, 
+          {
+            "key": "ENGENHARIA DE TRANSPORTES", 
+            "value": 1
+          }, 
+          {
+            "key": "ENGENHARIA ELÉTRICA", 
+            "value": 29
+          }, 
+          {
+            "key": "ENGENHARIA MECÂNICA", 
+            "value": 14
+          }, 
+          {
+            "key": "ENGENHARIA SANITÁRIA", 
+            "value": 14
+          }
+        ]
+      }, 
+      {
+        "key": "Grande Area Não Informada", 
+        "values": [
+          {
+            "key": "Área Não Informada", 
+            "value": 18
+          }
+        ]
+      }, 
+      {
+        "key": "LINGÜÍSTICA, LETRAS E ARTES", 
+        "values": [
+          {
+            "key": "ARTES", 
+            "value": 24
+          }, 
+          {
+            "key": "LETRAS", 
+            "value": 32
+          }
+        ]
+      }, 
+      {
+        "key": "MULTIDISCIPLINAR", 
+        "values": [
+          {
+            "key": "ENSINO DE CIÊNCIAS E MATEMÁTICA", 
+            "value": 11
+          }, 
+          {
+            "key": "MEIO AMBIENTE E AGRÁRIAS", 
+            "value": 28
+          }, 
+          {
+            "key": "SOCIAIS E HUMANIDADES", 
+            "value": 1
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "key": "MA", 
+    "total": 565, 
+    "values": [
+      {
+        "key": "CIÊNCIAS AGRÁRIAS", 
+        "values": [
+          {
+            "key": "AGRONOMIA", 
+            "value": 26
+          }, 
+          {
+            "key": "CIÊNCIA E TECNOLOGIA DE ALIMENTOS", 
+            "value": 1
+          }, 
+          {
+            "key": "ENGENHARIA AGRÍCOLA", 
+            "value": 1
+          }, 
+          {
+            "key": "MEDICINA VETERINÁRIA", 
+            "value": 39
+          }, 
+          {
+            "key": "PRODUÇÃO ANIMAL", 
+            "value": 13
+          }, 
+          {
+            "key": "RECURSOS FLORESTAIS E ENGENHARIA FLORESTAL", 
+            "value": 1
+          }, 
+          {
+            "key": "ZOOTECNIA", 
+            "value": 2
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS BIOLÓGICAS", 
+        "values": [
+          {
+            "key": "CONSERVAÇÃO DAS ESPÉCIES ANIMAIS", 
+            "value": 20
+          }, 
+          {
+            "key": "ECOLOGIA", 
+            "value": 1
+          }, 
+          {
+            "key": "GENÉTICA", 
+            "value": 1
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS DA SAÚDE", 
+        "values": [
+          {
+            "key": "CARDIOLOGIA", 
+            "value": 1
+          }, 
+          {
+            "key": "CLÍNICA MÉDICA", 
+            "value": 38
+          }, 
+          {
+            "key": "FARMÁCIA", 
+            "value": 1
+          }, 
+          {
+            "key": "ODONTOLOGIA", 
+            "value": 10
+          }, 
+          {
+            "key": "SAÚDE COLETIVA", 
+            "value": 9
+          }, 
+          {
+            "key": "SAÚDE MATERNO-INFANTIL", 
+            "value": 19
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS EXATAS E DA TERRA", 
+        "values": [
+          {
+            "key": "CIÊNCIA DA COMPUTAÇÃO", 
+            "value": 2
+          }, 
+          {
+            "key": "ESTATÍSTICA", 
+            "value": 1
+          }, 
+          {
+            "key": "FÍSICA", 
+            "value": 1
+          }, 
+          {
+            "key": "FÍSICA DA MATÉRIA CONDENSADA", 
+            "value": 28
+          }, 
+          {
+            "key": "QUÍMICA", 
+            "value": 31
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS HUMANAS", 
+        "values": [
+          {
+            "key": "EDUCAÇÃO", 
+            "value": 20
+          }, 
+          {
+            "key": "ENSINO-APRENDIZAGEM", 
+            "value": 20
+          }, 
+          {
+            "key": "FILOSOFIA", 
+            "value": 10
+          }, 
+          {
+            "key": "GEOGRAFIA", 
+            "value": 18
+          }, 
+          {
+            "key": "HISTÓRIA", 
+            "value": 3
+          }, 
+          {
+            "key": "PSICOLOGIA", 
+            "value": 14
+          }, 
+          {
+            "key": "SOCIOLOGIA", 
+            "value": 24
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS SOCIAIS APLICADAS", 
+        "values": [
+          {
+            "key": "ADMINISTRAÇÃO PÚBLICA", 
+            "value": 12
+          }, 
+          {
+            "key": "ARQUITETURA E URBANISMO", 
+            "value": 12
+          }, 
+          {
+            "key": "CIÊNCIA DA INFORMAÇÃO", 
+            "value": 1
+          }, 
+          {
+            "key": "COMUNICAÇÃO", 
+            "value": 2
+          }, 
+          {
+            "key": "SERVIÇO SOCIAL", 
+            "value": 17
+          }
+        ]
+      }, 
+      {
+        "key": "ENGENHARIAS", 
+        "values": [
+          {
+            "key": "APROVEITAMENTO DE ENERGIA", 
+            "value": 1
+          }, 
+          {
+            "key": "ENGENHARIA DE MATERIAIS E METALÚRGICA", 
+            "value": 44
+          }, 
+          {
+            "key": "ENGENHARIA ELÉTRICA", 
+            "value": 40
+          }, 
+          {
+            "key": "ENGENHARIA MECÂNICA", 
+            "value": 22
+          }
+        ]
+      }, 
+      {
+        "key": "Grande Area Não Informada", 
+        "values": [
+          {
+            "key": "Área Não Informada", 
+            "value": 2
+          }
+        ]
+      }, 
+      {
+        "key": "LINGÜÍSTICA, LETRAS E ARTES", 
+        "values": [
+          {
+            "key": "ARTES", 
+            "value": 1
+          }, 
+          {
+            "key": "LETRAS", 
+            "value": 15
+          }, 
+          {
+            "key": "LINGÜÍSTICA", 
+            "value": 19
+          }
+        ]
+      }, 
+      {
+        "key": "MULTIDISCIPLINAR", 
+        "values": [
+          {
+            "key": "ENSINO DE CIÊNCIAS E MATEMÁTICA", 
+            "value": 1
+          }, 
+          {
+            "key": "MEIO AMBIENTE E AGRÁRIAS", 
+            "value": 9
+          }, 
+          {
+            "key": "SAÚDE E BIOLÓGICAS", 
+            "value": 12
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "key": "MG", 
+    "total": 4023, 
+    "values": [
+      {
+        "key": "CIÊNCIAS AGRÁRIAS", 
+        "values": [
+          {
+            "key": "AGRONOMIA", 
+            "value": 425
+          }, 
+          {
+            "key": "CIÊNCIA DE ALIMENTOS", 
+            "value": 37
+          }, 
+          {
+            "key": "CIÊNCIA DO SOLO", 
+            "value": 32
+          }, 
+          {
+            "key": "CIÊNCIA E TECNOLOGIA DE ALIMENTOS", 
+            "value": 29
+          }, 
+          {
+            "key": "CONSERVAÇÃO DA NATUREZA", 
+            "value": 15
+          }, 
+          {
+            "key": "ENGENHARIA AGRÍCOLA", 
+            "value": 84
+          }, 
+          {
+            "key": "EXTENSÃO RURAL", 
+            "value": 9
+          }, 
+          {
+            "key": "FITOPATOLOGIA", 
+            "value": 25
+          }, 
+          {
+            "key": "FITOSSANIDADE", 
+            "value": 18
+          }, 
+          {
+            "key": "FITOTECNIA", 
+            "value": 73
+          }, 
+          {
+            "key": "MEDICINA VETERINÁRIA", 
+            "value": 80
+          }, 
+          {
+            "key": "MELHORAMENTO VEGETAL", 
+            "value": 25
+          }, 
+          {
+            "key": "MICROBIOLOGIA AGRÍCOLA", 
+            "value": 16
+          }, 
+          {
+            "key": "PRODUÇÃO ANIMAL", 
+            "value": 1
+          }, 
+          {
+            "key": "RECURSOS FLORESTAIS E ENGENHARIA FLORESTAL", 
+            "value": 53
+          }, 
+          {
+            "key": "ZOOTECNIA", 
+            "value": 142
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS BIOLÓGICAS", 
+        "values": [
+          {
+            "key": "BIOLOGIA GERAL", 
+            "value": 93
+          }, 
+          {
+            "key": "BIOLOGIA MOLECULAR", 
+            "value": 15
+          }, 
+          {
+            "key": "BIOQUÍMICA", 
+            "value": 39
+          }, 
+          {
+            "key": "BOTÂNICA", 
+            "value": 43
+          }, 
+          {
+            "key": "ECOLOGIA", 
+            "value": 60
+          }, 
+          {
+            "key": "FARMACOLOGIA BIOQUIMICA E MOLECULAR", 
+            "value": 15
+          }, 
+          {
+            "key": "FISIOLOGIA", 
+            "value": 38
+          }, 
+          {
+            "key": "GENÉTICA", 
+            "value": 63
+          }, 
+          {
+            "key": "IMUNOLOGIA", 
+            "value": 25
+          }, 
+          {
+            "key": "MICROBIOLOGIA", 
+            "value": 31
+          }, 
+          {
+            "key": "MORFOLOGIA", 
+            "value": 21
+          }, 
+          {
+            "key": "PARASITOLOGIA", 
+            "value": 20
+          }, 
+          {
+            "key": "ZOOLOGIA", 
+            "value": 27
+          }, 
+          {
+            "key": "ZOOLOGIA APLICADA", 
+            "value": 8
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS DA SAÚDE", 
+        "values": [
+          {
+            "key": "ANATOMIA PATOLÓGICA E PATOLOGIA CLÍNICA", 
+            "value": 47
+          }, 
+          {
+            "key": "CIRURGIA", 
+            "value": 7
+          }, 
+          {
+            "key": "CLÍNICA MÉDICA", 
+            "value": 20
+          }, 
+          {
+            "key": "CLÍNICA ODONTOLÓGICA", 
+            "value": 1
+          }, 
+          {
+            "key": "DOENÇAS INFECCIOSAS E PARASITÁRIAS", 
+            "value": 55
+          }, 
+          {
+            "key": "EDUCAÇÃO FÍSICA", 
+            "value": 17
+          }, 
+          {
+            "key": "ENFERMAGEM", 
+            "value": 27
+          }, 
+          {
+            "key": "FARMÁCIA", 
+            "value": 35
+          }, 
+          {
+            "key": "FISIOTERAPIA E TERAPIA OCUPACIONAL", 
+            "value": 12
+          }, 
+          {
+            "key": "GASTROENTEROLOGIA", 
+            "value": 2
+          }, 
+          {
+            "key": "GINECOLOGIA E OBSTETRÍCIA", 
+            "value": 6
+          }, 
+          {
+            "key": "MEDICINA", 
+            "value": 8
+          }, 
+          {
+            "key": "NUTRIÇÃO", 
+            "value": 15
+          }, 
+          {
+            "key": "ODONTOLOGIA", 
+            "value": 38
+          }, 
+          {
+            "key": "ODONTOPEDIATRIA", 
+            "value": 1
+          }, 
+          {
+            "key": "PEDIATRIA", 
+            "value": 26
+          }, 
+          {
+            "key": "SAÚDE COLETIVA", 
+            "value": 5
+          }, 
+          {
+            "key": "SAÚDE PÚBLICA", 
+            "value": 11
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS EXATAS E DA TERRA", 
+        "values": [
+          {
+            "key": "CIÊNCIA DA COMPUTAÇÃO", 
+            "value": 63
+          }, 
+          {
+            "key": "ESTATÍSTICA", 
+            "value": 15
+          }, 
+          {
+            "key": "FÍSICA", 
+            "value": 84
+          }, 
+          {
+            "key": "FÍSICA CLÁSSICA E FÍSICA QUÂNTICA; MECÂNICA E CAMPOS", 
+            "value": 9
+          }, 
+          {
+            "key": "FÍSICA DA MATÉRIA CONDENSADA", 
+            "value": 15
+          }, 
+          {
+            "key": "GEOLOGIA", 
+            "value": 37
+          }, 
+          {
+            "key": "MATEMÁTICA", 
+            "value": 42
+          }, 
+          {
+            "key": "QUÍMICA", 
+            "value": 93
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS HUMANAS", 
+        "values": [
+          {
+            "key": "ANTROPOLOGIA", 
+            "value": 9
+          }, 
+          {
+            "key": "CIÊNCIA POLÍTICA", 
+            "value": 24
+          }, 
+          {
+            "key": "EDUCAÇÃO", 
+            "value": 134
+          }, 
+          {
+            "key": "FILOSOFIA", 
+            "value": 44
+          }, 
+          {
+            "key": "GEOGRAFIA", 
+            "value": 60
+          }, 
+          {
+            "key": "HISTÓRIA", 
+            "value": 60
+          }, 
+          {
+            "key": "PSICOLOGIA", 
+            "value": 35
+          }, 
+          {
+            "key": "SOCIOLOGIA", 
+            "value": 46
+          }, 
+          {
+            "key": "TEOLOGIA", 
+            "value": 32
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS SOCIAIS APLICADAS", 
+        "values": [
+          {
+            "key": "ADMINISTRAÇÃO", 
+            "value": 64
+          }, 
+          {
+            "key": "ADMINISTRAÇÃO PÚBLICA", 
+            "value": 8
+          }, 
+          {
+            "key": "ARQUITETURA E URBANISMO", 
+            "value": 12
+          }, 
+          {
+            "key": "CIÊNCIA DA INFORMAÇÃO", 
+            "value": 20
+          }, 
+          {
+            "key": "CIÊNCIAS CONTÁBEIS", 
+            "value": 5
+          }, 
+          {
+            "key": "COMUNICAÇÃO", 
+            "value": 26
+          }, 
+          {
+            "key": "DEMOGRAFIA", 
+            "value": 15
+          }, 
+          {
+            "key": "DESENHO INDUSTRIAL", 
+            "value": 2
+          }, 
+          {
+            "key": "DIREITO", 
+            "value": 21
+          }, 
+          {
+            "key": "ECONOMIA", 
+            "value": 48
+          }, 
+          {
+            "key": "ECONOMIA AGRÁRIA", 
+            "value": 22
+          }, 
+          {
+            "key": "SERVIÇO SOCIAL", 
+            "value": 27
+          }, 
+          {
+            "key": "TURISMO", 
+            "value": 1
+          }
+        ]
+      }, 
+      {
+        "key": "ENGENHARIAS", 
+        "values": [
+          {
+            "key": "APROVEITAMENTO DA ENERGIA", 
+            "value": 11
+          }, 
+          {
+            "key": "ENGENHARIA CIVIL", 
+            "value": 64
+          }, 
+          {
+            "key": "ENGENHARIA DE MATERIAIS E METALÚRGICA", 
+            "value": 56
+          }, 
+          {
+            "key": "ENGENHARIA DE MINAS", 
+            "value": 14
+          }, 
+          {
+            "key": "ENGENHARIA DE PRODUÇÃO", 
+            "value": 32
+          }, 
+          {
+            "key": "ENGENHARIA ELÉTRICA", 
+            "value": 223
+          }, 
+          {
+            "key": "ENGENHARIA MECÂNICA", 
+            "value": 124
+          }, 
+          {
+            "key": "ENGENHARIA NUCLEAR", 
+            "value": 10
+          }, 
+          {
+            "key": "ENGENHARIA QUÍMICA", 
+            "value": 35
+          }, 
+          {
+            "key": "ENGENHARIA SANITÁRIA", 
+            "value": 24
+          }, 
+          {
+            "key": "ESTRUTURAS", 
+            "value": 10
+          }, 
+          {
+            "key": "GEOTÉCNICA", 
+            "value": 12
+          }, 
+          {
+            "key": "INSTRUMENTAÇÃO PARA MEDIDA E CONTROLE DE RADIAÇÃO", 
+            "value": 15
+          }, 
+          {
+            "key": "MODELAGEM DE SISTEMAS BIOLÓGICOS", 
+            "value": 2
+          }
+        ]
+      }, 
+      {
+        "key": "Grande Area Não Informada", 
+        "values": [
+          {
+            "key": "Área Não Informada", 
+            "value": 121
+          }
+        ]
+      }, 
+      {
+        "key": "LINGÜÍSTICA, LETRAS E ARTES", 
+        "values": [
+          {
+            "key": "ARTES", 
+            "value": 19
+          }, 
+          {
+            "key": "LETRAS", 
+            "value": 100
+          }, 
+          {
+            "key": "LINGÜÍSTICA", 
+            "value": 19
+          }, 
+          {
+            "key": "LINGÜÍSTICA APLICADA", 
+            "value": 2
+          }, 
+          {
+            "key": "LITERATURA BRASILEIRA", 
+            "value": 33
+          }, 
+          {
+            "key": "MÚSICA", 
+            "value": 7
+          }, 
+          {
+            "key": "TEORIA LITERARIA", 
+            "value": 4
+          }
+        ]
+      }, 
+      {
+        "key": "MULTIDISCIPLINAR", 
+        "values": [
+          {
+            "key": "BIOTECNOLOGIA", 
+            "value": 2
+          }, 
+          {
+            "key": "ENGENHARIA/TECNOLOGIA/GESTÃO", 
+            "value": 34
+          }, 
+          {
+            "key": "ENSINO DE CIÊNCIAS E MATEMÁTICA", 
+            "value": 26
+          }, 
+          {
+            "key": "MEIO AMBIENTE E AGRÁRIAS", 
+            "value": 17
+          }, 
+          {
+            "key": "SAÚDE E BIOLÓGICAS", 
+            "value": 21
+          }, 
+          {
+            "key": "SOCIAIS E HUMANIDADES", 
+            "value": 18
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "key": "MS", 
+    "total": 673, 
+    "values": [
+      {
+        "key": "CIÊNCIAS AGRÁRIAS", 
+        "values": [
+          {
+            "key": "AGRONOMIA", 
+            "value": 62
+          }, 
+          {
+            "key": "ZOOTECNIA", 
+            "value": 45
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS BIOLÓGICAS", 
+        "values": [
+          {
+            "key": "BOTÂNICA", 
+            "value": 32
+          }, 
+          {
+            "key": "ECOLOGIA", 
+            "value": 35
+          }, 
+          {
+            "key": "IMUNOLOGIA", 
+            "value": 1
+          }, 
+          {
+            "key": "ZOOLOGIA", 
+            "value": 21
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS DA SAÚDE", 
+        "values": [
+          {
+            "key": "DOENÇAS INFECCIOSAS E PARASITÁRIAS", 
+            "value": 9
+          }, 
+          {
+            "key": "ENFERMAGEM", 
+            "value": 1
+          }, 
+          {
+            "key": "ODONTOLOGIA", 
+            "value": 1
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS EXATAS E DA TERRA", 
+        "values": [
+          {
+            "key": "CIÊNCIA DA COMPUTAÇÃO", 
+            "value": 25
+          }, 
+          {
+            "key": "ESTATÍSTICA", 
+            "value": 1
+          }, 
+          {
+            "key": "FÍSICA", 
+            "value": 1
+          }, 
+          {
+            "key": "FÍSICA DA MATÉRIA CONDENSADA", 
+            "value": 5
+          }, 
+          {
+            "key": "MATEMÁTICA", 
+            "value": 1
+          }, 
+          {
+            "key": "QUÍMICA", 
+            "value": 27
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS HUMANAS", 
+        "values": [
+          {
+            "key": "EDUCAÇÃO", 
+            "value": 73
+          }, 
+          {
+            "key": "GEOGRAFIA", 
+            "value": 31
+          }, 
+          {
+            "key": "HISTÓRIA", 
+            "value": 27
+          }, 
+          {
+            "key": "PSICOLOGIA", 
+            "value": 7
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS SOCIAIS APLICADAS", 
+        "values": [
+          {
+            "key": "ADMINISTRAÇÃO", 
+            "value": 15
+          }, 
+          {
+            "key": "ECONOMIA", 
+            "value": 14
+          }
+        ]
+      }, 
+      {
+        "key": "ENGENHARIAS", 
+        "values": [
+          {
+            "key": "ENGENHARIA CIVIL", 
+            "value": 1
+          }, 
+          {
+            "key": "ENGENHARIA ELÉTRICA", 
+            "value": 16
+          }, 
+          {
+            "key": "ENGENHARIA MECÂNICA", 
+            "value": 1
+          }, 
+          {
+            "key": "ENGENHARIA SANITÁRIA", 
+            "value": 53
+          }
+        ]
+      }, 
+      {
+        "key": "Grande Area Não Informada", 
+        "values": [
+          {
+            "key": "Área Não Informada", 
+            "value": 13
+          }
+        ]
+      }, 
+      {
+        "key": "LINGÜÍSTICA, LETRAS E ARTES", 
+        "values": [
+          {
+            "key": "LETRAS", 
+            "value": 47
+          }, 
+          {
+            "key": "MÚSICA", 
+            "value": 1
+          }
+        ]
+      }, 
+      {
+        "key": "MULTIDISCIPLINAR", 
+        "values": [
+          {
+            "key": "BIOTECNOLOGIA", 
+            "value": 12
+          }, 
+          {
+            "key": "ENGENHARIA/TECNOLOGIA/GESTÃO", 
+            "value": 11
+          }, 
+          {
+            "key": "ENSINO DE CIÊNCIAS E MATEMÁTICA", 
+            "value": 18
+          }, 
+          {
+            "key": "MATERIAIS", 
+            "value": 4
+          }, 
+          {
+            "key": "MEIO AMBIENTE E AGRÁRIAS", 
+            "value": 10
+          }, 
+          {
+            "key": "SAÚDE E BIOLÓGICAS", 
+            "value": 42
+          }, 
+          {
+            "key": "SOCIAIS E HUMANIDADES", 
+            "value": 10
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "key": "MT", 
+    "total": 529, 
+    "values": [
+      {
+        "key": "CIÊNCIAS AGRÁRIAS", 
+        "values": [
+          {
+            "key": "AGRONOMIA", 
+            "value": 41
+          }, 
+          {
+            "key": "CIÊNCIA DE ALIMENTOS", 
+            "value": 1
+          }, 
+          {
+            "key": "ENGENHARIA AGRÍCOLA", 
+            "value": 2
+          }, 
+          {
+            "key": "MEDICINA VETERINÁRIA", 
+            "value": 8
+          }, 
+          {
+            "key": "RECURSOS FLORESTAIS E ENGENHARIA FLORESTAL", 
+            "value": 13
+          }, 
+          {
+            "key": "ZOOTECNIA", 
+            "value": 25
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS BIOLÓGICAS", 
+        "values": [
+          {
+            "key": "BIOLOGIA GERAL", 
+            "value": 2
+          }, 
+          {
+            "key": "BOTÂNICA", 
+            "value": 1
+          }, 
+          {
+            "key": "ECOLOGIA", 
+            "value": 34
+          }, 
+          {
+            "key": "MICROBIOLOGIA", 
+            "value": 1
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS DA SAÚDE", 
+        "values": [
+          {
+            "key": "ENFERMAGEM", 
+            "value": 23
+          }, 
+          {
+            "key": "MEDICINA", 
+            "value": 10
+          }, 
+          {
+            "key": "NUTRIÇÃO", 
+            "value": 15
+          }, 
+          {
+            "key": "PEDIATRIA", 
+            "value": 1
+          }, 
+          {
+            "key": "SAÚDE COLETIVA", 
+            "value": 14
+          }, 
+          {
+            "key": "SAÚDE PÚBLICA", 
+            "value": 1
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS EXATAS E DA TERRA", 
+        "values": [
+          {
+            "key": "FÍSICA", 
+            "value": 16
+          }, 
+          {
+            "key": "GEOFÍSICA", 
+            "value": 1
+          }, 
+          {
+            "key": "GEOLOGIA", 
+            "value": 12
+          }, 
+          {
+            "key": "MATEMÁTICA", 
+            "value": 1
+          }, 
+          {
+            "key": "QUÍMICA", 
+            "value": 1
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS HUMANAS", 
+        "values": [
+          {
+            "key": "ANTROPOLOGIA", 
+            "value": 1
+          }, 
+          {
+            "key": "CIÊNCIA POLÍTICA", 
+            "value": 1
+          }, 
+          {
+            "key": "EDUCAÇÃO", 
+            "value": 54
+          }, 
+          {
+            "key": "EDUCAÇÃO DE ADULTOS", 
+            "value": 1
+          }, 
+          {
+            "key": "ENSINO-APRENDIZAGEM", 
+            "value": 1
+          }, 
+          {
+            "key": "FILOSOFIA", 
+            "value": 1
+          }, 
+          {
+            "key": "GEOGRAFIA", 
+            "value": 19
+          }, 
+          {
+            "key": "HISTÓRIA", 
+            "value": 18
+          }, 
+          {
+            "key": "PSICOLOGIA", 
+            "value": 2
+          }, 
+          {
+            "key": "SOCIOLOGIA", 
+            "value": 2
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS SOCIAIS APLICADAS", 
+        "values": [
+          {
+            "key": "ARQUITETURA E URBANISMO", 
+            "value": 1
+          }, 
+          {
+            "key": "CIÊNCIA DA INFORMAÇÃO", 
+            "value": 1
+          }, 
+          {
+            "key": "ECONOMIA", 
+            "value": 11
+          }, 
+          {
+            "key": "SERVIÇO SOCIAL", 
+            "value": 4
+          }
+        ]
+      }, 
+      {
+        "key": "ENGENHARIAS", 
+        "values": [
+          {
+            "key": "ENGENHARIA CIVIL", 
+            "value": 10
+          }, 
+          {
+            "key": "ENGENHARIA ELÉTRICA", 
+            "value": 66
+          }, 
+          {
+            "key": "GEOTÉCNICA", 
+            "value": 15
+          }
+        ]
+      }, 
+      {
+        "key": "Grande Area Não Informada", 
+        "values": [
+          {
+            "key": "Área Não Informada", 
+            "value": 10
+          }
+        ]
+      }, 
+      {
+        "key": "LINGÜÍSTICA, LETRAS E ARTES", 
+        "values": [
+          {
+            "key": "LETRAS", 
+            "value": 9
+          }, 
+          {
+            "key": "LINGÜÍSTICA", 
+            "value": 21
+          }, 
+          {
+            "key": "MÚSICA", 
+            "value": 1
+          }
+        ]
+      }, 
+      {
+        "key": "MULTIDISCIPLINAR", 
+        "values": [
+          {
+            "key": "ENGENHARIA/TECNOLOGIA/GESTÃO", 
+            "value": 1
+          }, 
+          {
+            "key": "ENSINO DE CIÊNCIAS E MATEMÁTICA", 
+            "value": 1
+          }, 
+          {
+            "key": "MEIO AMBIENTE E AGRÁRIAS", 
+            "value": 44
+          }, 
+          {
+            "key": "SOCIAIS E HUMANIDADES", 
+            "value": 11
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "key": "PA", 
+    "total": 1007, 
+    "values": [
+      {
+        "key": "CIÊNCIAS AGRÁRIAS", 
+        "values": [
+          {
+            "key": "AGRONOMIA", 
+            "value": 39
+          }, 
+          {
+            "key": "CIÊNCIA E TECNOLOGIA DE ALIMENTOS", 
+            "value": 13
+          }, 
+          {
+            "key": "FITOTECNIA", 
+            "value": 15
+          }, 
+          {
+            "key": "MEDICINA VETERINÁRIA", 
+            "value": 16
+          }, 
+          {
+            "key": "RECURSOS FLORESTAIS E ENGENHARIA FLORESTAL", 
+            "value": 37
+          }, 
+          {
+            "key": "ZOOTECNIA", 
+            "value": 27
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS BIOLÓGICAS", 
+        "values": [
+          {
+            "key": "BOTÂNICA", 
+            "value": 20
+          }, 
+          {
+            "key": "ECOLOGIA", 
+            "value": 13
+          }, 
+          {
+            "key": "FISIOLOGIA", 
+            "value": 28
+          }, 
+          {
+            "key": "GENÉTICA", 
+            "value": 25
+          }, 
+          {
+            "key": "MICROBIOLOGIA", 
+            "value": 27
+          }, 
+          {
+            "key": "ZOOLOGIA", 
+            "value": 22
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS DA SAÚDE", 
+        "values": [
+          {
+            "key": "DOENÇAS INFECCIOSAS E PARASITÁRIAS", 
+            "value": 13
+          }, 
+          {
+            "key": "ENFERMAGEM", 
+            "value": 27
+          }, 
+          {
+            "key": "FARMÁCIA", 
+            "value": 15
+          }, 
+          {
+            "key": "ODONTOLOGIA", 
+            "value": 13
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS EXATAS E DA TERRA", 
+        "values": [
+          {
+            "key": "CIÊNCIA DA COMPUTAÇÃO", 
+            "value": 6
+          }, 
+          {
+            "key": "FÍSICA", 
+            "value": 9
+          }, 
+          {
+            "key": "GEOCIÊNCIAS", 
+            "value": 56
+          }, 
+          {
+            "key": "MATEMÁTICA", 
+            "value": 22
+          }, 
+          {
+            "key": "OCEANOGRAFIA BIOLÓGICA", 
+            "value": 25
+          }, 
+          {
+            "key": "QUÍMICA", 
+            "value": 37
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS HUMANAS", 
+        "values": [
+          {
+            "key": "CIÊNCIA POLÍTICA", 
+            "value": 6
+          }, 
+          {
+            "key": "EDUCAÇÃO", 
+            "value": 71
+          }, 
+          {
+            "key": "FILOSOFIA", 
+            "value": 2
+          }, 
+          {
+            "key": "GEOGRAFIA", 
+            "value": 1
+          }, 
+          {
+            "key": "GEOGRAFIA REGIONAL", 
+            "value": 4
+          }, 
+          {
+            "key": "HISTÓRIA", 
+            "value": 20
+          }, 
+          {
+            "key": "PSICOLOGIA", 
+            "value": 44
+          }, 
+          {
+            "key": "SOCIOLOGIA", 
+            "value": 26
+          }, 
+          {
+            "key": "TRATAMENTO E PREVENÇÃO PSICOLÓGICA", 
+            "value": 1
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS SOCIAIS APLICADAS", 
+        "values": [
+          {
+            "key": "DIREITO", 
+            "value": 33
+          }, 
+          {
+            "key": "ECONOMIA", 
+            "value": 11
+          }, 
+          {
+            "key": "SERVIÇO SOCIAL", 
+            "value": 15
+          }
+        ]
+      }, 
+      {
+        "key": "ENGENHARIAS", 
+        "values": [
+          {
+            "key": "APROVEITAMENTO DE ENERGIA", 
+            "value": 7
+          }, 
+          {
+            "key": "ENGENHARIA CIVIL", 
+            "value": 13
+          }, 
+          {
+            "key": "ENGENHARIA DE MATERIAIS E METALÚRGICA", 
+            "value": 2
+          }, 
+          {
+            "key": "ENGENHARIA DE MINAS", 
+            "value": 1
+          }, 
+          {
+            "key": "ENGENHARIA ELÉTRICA", 
+            "value": 43
+          }, 
+          {
+            "key": "ENGENHARIA MECÂNICA", 
+            "value": 42
+          }, 
+          {
+            "key": "ENGENHARIA QUÍMICA", 
+            "value": 15
+          }
+        ]
+      }, 
+      {
+        "key": "Grande Area Não Informada", 
+        "values": [
+          {
+            "key": "Área Não Informada", 
+            "value": 4
+          }
+        ]
+      }, 
+      {
+        "key": "LINGÜÍSTICA, LETRAS E ARTES", 
+        "values": [
+          {
+            "key": "ARTES", 
+            "value": 20
+          }, 
+          {
+            "key": "LETRAS", 
+            "value": 18
+          }, 
+          {
+            "key": "LINGÜÍSTICA", 
+            "value": 3
+          }, 
+          {
+            "key": "LINGÜÍSTICA APLICADA", 
+            "value": 2
+          }, 
+          {
+            "key": "MÚSICA", 
+            "value": 25
+          }
+        ]
+      }, 
+      {
+        "key": "MULTIDISCIPLINAR", 
+        "values": [
+          {
+            "key": "ENSINO DE CIÊNCIAS E MATEMÁTICA", 
+            "value": 39
+          }, 
+          {
+            "key": "MEIO AMBIENTE E AGRÁRIAS", 
+            "value": 33
+          }, 
+          {
+            "key": "SOCIAIS E HUMANIDADES", 
+            "value": 1
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "key": "PB", 
+    "total": 1713, 
+    "values": [
+      {
+        "key": "CIÊNCIAS AGRÁRIAS", 
+        "values": [
+          {
+            "key": "AGRONOMIA", 
+            "value": 46
+          }, 
+          {
+            "key": "CIÊNCIA E TECNOLOGIA DE ALIMENTOS", 
+            "value": 46
+          }, 
+          {
+            "key": "ENGENHARIA AGRÍCOLA", 
+            "value": 61
+          }, 
+          {
+            "key": "MANEJO E CONSERVAÇÃO DO SOLO", 
+            "value": 23
+          }, 
+          {
+            "key": "MEDICINA VETERINÁRIA", 
+            "value": 21
+          }, 
+          {
+            "key": "PRODUÇÃO ANIMAL", 
+            "value": 22
+          }, 
+          {
+            "key": "RECURSOS FLORESTAIS E ENGENHARIA FLORESTAL", 
+            "value": 10
+          }, 
+          {
+            "key": "ZOOTECNIA", 
+            "value": 15
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS BIOLÓGICAS", 
+        "values": [
+          {
+            "key": "FISIOLOGIA", 
+            "value": 1
+          }, 
+          {
+            "key": "ZOOLOGIA", 
+            "value": 49
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS DA SAÚDE", 
+        "values": [
+          {
+            "key": "DOENÇAS INFECCIOSAS E PARASITÁRIAS", 
+            "value": 1
+          }, 
+          {
+            "key": "EDUCAÇÃO FÍSICA", 
+            "value": 24
+          }, 
+          {
+            "key": "ENFERMAGEM", 
+            "value": 15
+          }, 
+          {
+            "key": "FARMÁCIA", 
+            "value": 48
+          }, 
+          {
+            "key": "NUTRIÇÃO", 
+            "value": 10
+          }, 
+          {
+            "key": "ODONTOLOGIA", 
+            "value": 49
+          }, 
+          {
+            "key": "SAÚDE PÚBLICA", 
+            "value": 4
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS EXATAS E DA TERRA", 
+        "values": [
+          {
+            "key": "CIÊNCIA DA COMPUTAÇÃO", 
+            "value": 68
+          }, 
+          {
+            "key": "ESTATÍSTICA", 
+            "value": 1
+          }, 
+          {
+            "key": "FÍSICA", 
+            "value": 67
+          }, 
+          {
+            "key": "GEOCIÊNCIAS", 
+            "value": 1
+          }, 
+          {
+            "key": "MATEMÁTICA", 
+            "value": 44
+          }, 
+          {
+            "key": "METEOROLOGIA", 
+            "value": 31
+          }, 
+          {
+            "key": "OCEANOGRAFIA", 
+            "value": 1
+          }, 
+          {
+            "key": "QUÍMICA", 
+            "value": 62
+          }, 
+          {
+            "key": "SISTEMA DE COMPUTAÇÃO", 
+            "value": 19
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS HUMANAS", 
+        "values": [
+          {
+            "key": "CIÊNCIA POLÍTICA", 
+            "value": 3
+          }, 
+          {
+            "key": "EDUCAÇÃO", 
+            "value": 24
+          }, 
+          {
+            "key": "EDUCAÇÃO DE ADULTOS", 
+            "value": 35
+          }, 
+          {
+            "key": "FILOSOFIA", 
+            "value": 68
+          }, 
+          {
+            "key": "GEOGRAFIA", 
+            "value": 17
+          }, 
+          {
+            "key": "HISTÓRIA", 
+            "value": 32
+          }, 
+          {
+            "key": "OUTRAS SOCIOLOGIAS ESPECÍFICAS", 
+            "value": 2
+          }, 
+          {
+            "key": "PLANEJAMENTO EDUCACIONAL", 
+            "value": 1
+          }, 
+          {
+            "key": "PSICOLOGIA SOCIAL", 
+            "value": 46
+          }, 
+          {
+            "key": "SOCIOLOGIA", 
+            "value": 71
+          }, 
+          {
+            "key": "TEOLOGIA", 
+            "value": 13
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS SOCIAIS APLICADAS", 
+        "values": [
+          {
+            "key": "ADMINISTRAÇÃO DE EMPRESAS", 
+            "value": 15
+          }, 
+          {
+            "key": "ARQUITETURA E URBANISMO", 
+            "value": 24
+          }, 
+          {
+            "key": "CIÊNCIA DA INFORMAÇÃO", 
+            "value": 22
+          }, 
+          {
+            "key": "CIÊNCIAS CONTÁBEIS", 
+            "value": 4
+          }, 
+          {
+            "key": "COMUNICAÇÃO", 
+            "value": 9
+          }, 
+          {
+            "key": "DIREITO", 
+            "value": 13
+          }, 
+          {
+            "key": "ECONOMIA", 
+            "value": 1
+          }, 
+          {
+            "key": "ECONOMIA DOS RECURSOS HUMANOS", 
+            "value": 20
+          }, 
+          {
+            "key": "PLANEJAMENTO URBANO E REGIONAL", 
+            "value": 2
+          }, 
+          {
+            "key": "SERVIÇO SOCIAL", 
+            "value": 15
+          }
+        ]
+      }, 
+      {
+        "key": "ENGENHARIAS", 
+        "values": [
+          {
+            "key": "ENGENHARIA CIVIL", 
+            "value": 66
+          }, 
+          {
+            "key": "ENGENHARIA DE MATERIAIS E METALÚRGICA", 
+            "value": 33
+          }, 
+          {
+            "key": "ENGENHARIA DE MINAS", 
+            "value": 4
+          }, 
+          {
+            "key": "ENGENHARIA DE PRODUÇÃO", 
+            "value": 30
+          }, 
+          {
+            "key": "ENGENHARIA ELÉTRICA", 
+            "value": 76
+          }, 
+          {
+            "key": "ENGENHARIA MECÂNICA", 
+            "value": 53
+          }, 
+          {
+            "key": "ENGENHARIA QUÍMICA", 
+            "value": 54
+          }, 
+          {
+            "key": "ENGENHARIA SANITÁRIA", 
+            "value": 14
+          }
+        ]
+      }, 
+      {
+        "key": "Grande Area Não Informada", 
+        "values": [
+          {
+            "key": "Área Não Informada", 
+            "value": 43
+          }
+        ]
+      }, 
+      {
+        "key": "LINGÜÍSTICA, LETRAS E ARTES", 
+        "values": [
+          {
+            "key": "LETRAS", 
+            "value": 61
+          }, 
+          {
+            "key": "LINGÜÍSTICA", 
+            "value": 27
+          }, 
+          {
+            "key": "MÚSICA", 
+            "value": 12
+          }, 
+          {
+            "key": "TEORIA LITERARIA", 
+            "value": 9
+          }
+        ]
+      }, 
+      {
+        "key": "MULTIDISCIPLINAR", 
+        "values": [
+          {
+            "key": "ENGENHARIA/TECNOLOGIA/GESTÃO", 
+            "value": 8
+          }, 
+          {
+            "key": "MEIO AMBIENTE E AGRÁRIAS", 
+            "value": 45
+          }, 
+          {
+            "key": "SOCIAIS E HUMANIDADES", 
+            "value": 2
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "key": "PE", 
+    "total": 1835, 
+    "values": [
+      {
+        "key": "CIÊNCIAS AGRÁRIAS", 
+        "values": [
+          {
+            "key": "AGRONOMIA", 
+            "value": 64
+          }, 
+          {
+            "key": "CIÊNCIA DO SOLO", 
+            "value": 20
+          }, 
+          {
+            "key": "CIÊNCIA E TECNOLOGIA DE ALIMENTOS", 
+            "value": 7
+          }, 
+          {
+            "key": "ENGENHARIA AGRÍCOLA", 
+            "value": 46
+          }, 
+          {
+            "key": "EXTENSÃO RURAL", 
+            "value": 11
+          }, 
+          {
+            "key": "MEDICINA VETERINÁRIA", 
+            "value": 56
+          }, 
+          {
+            "key": "MELHORAMENTO VEGETAL", 
+            "value": 12
+          }, 
+          {
+            "key": "RECURSOS FLORESTAIS E ENGENHARIA FLORESTAL", 
+            "value": 15
+          }, 
+          {
+            "key": "RECURSOS PESQUEIROS E ENGENHARIA DE PESCA", 
+            "value": 18
+          }, 
+          {
+            "key": "ZOOTECNIA", 
+            "value": 82
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS BIOLÓGICAS", 
+        "values": [
+          {
+            "key": "BIOLOGIA GERAL", 
+            "value": 39
+          }, 
+          {
+            "key": "BIOQUÍMICA", 
+            "value": 24
+          }, 
+          {
+            "key": "BOTÂNICA", 
+            "value": 40
+          }, 
+          {
+            "key": "ECOLOGIA", 
+            "value": 1
+          }, 
+          {
+            "key": "FISIOLOGIA", 
+            "value": 4
+          }, 
+          {
+            "key": "GENÉTICA", 
+            "value": 23
+          }, 
+          {
+            "key": "TAXONOMIA DE CRIPTÓGAMOS", 
+            "value": 24
+          }, 
+          {
+            "key": "ZOOLOGIA", 
+            "value": 14
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS DA SAÚDE", 
+        "values": [
+          {
+            "key": "ANATOMIA PATOLÓGICA E PATOLOGIA CLÍNICA", 
+            "value": 11
+          }, 
+          {
+            "key": "CIRURGIA", 
+            "value": 9
+          }, 
+          {
+            "key": "CLÍNICA MÉDICA", 
+            "value": 9
+          }, 
+          {
+            "key": "DOENÇAS INFECCIOSAS E PARASITÁRIAS", 
+            "value": 13
+          }, 
+          {
+            "key": "EDUCAÇÃO FÍSICA", 
+            "value": 14
+          }, 
+          {
+            "key": "ENFERMAGEM", 
+            "value": 5
+          }, 
+          {
+            "key": "FARMÁCIA", 
+            "value": 42
+          }, 
+          {
+            "key": "FISIOTERAPIA E TERAPIA OCUPACIONAL", 
+            "value": 6
+          }, 
+          {
+            "key": "MEDICINA", 
+            "value": 6
+          }, 
+          {
+            "key": "NEUROLOGIA", 
+            "value": 13
+          }, 
+          {
+            "key": "NUTRIÇÃO", 
+            "value": 21
+          }, 
+          {
+            "key": "ODONTOLOGIA", 
+            "value": 79
+          }, 
+          {
+            "key": "ODONTOLOGIA SOCIAL E PREVENTIVA", 
+            "value": 4
+          }, 
+          {
+            "key": "PEDIATRIA", 
+            "value": 7
+          }, 
+          {
+            "key": "SAÚDE COLETIVA", 
+            "value": 41
+          }, 
+          {
+            "key": "SAÚDE MATERNO-INFANTIL", 
+            "value": 19
+          }, 
+          {
+            "key": "SAÚDE PÚBLICA", 
+            "value": 1
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS EXATAS E DA TERRA", 
+        "values": [
+          {
+            "key": "CIÊNCIA DA COMPUTAÇÃO", 
+            "value": 66
+          }, 
+          {
+            "key": "ENGENHARIA DE SOFTWARE", 
+            "value": 3
+          }, 
+          {
+            "key": "FÍSICA", 
+            "value": 24
+          }, 
+          {
+            "key": "GEOCIÊNCIAS", 
+            "value": 26
+          }, 
+          {
+            "key": "MATEMÁTICA", 
+            "value": 21
+          }, 
+          {
+            "key": "MATEMÁTICA APLICADA", 
+            "value": 1
+          }, 
+          {
+            "key": "OCEANOGRAFIA", 
+            "value": 27
+          }, 
+          {
+            "key": "PROBABILIDADE E ESTATÍSTICA", 
+            "value": 15
+          }, 
+          {
+            "key": "QUÍMICA", 
+            "value": 38
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS HUMANAS", 
+        "values": [
+          {
+            "key": "ANTROPOLOGIA", 
+            "value": 29
+          }, 
+          {
+            "key": "ARQUEOLOGIA", 
+            "value": 9
+          }, 
+          {
+            "key": "COMPORTAMENTO POLÍTICO", 
+            "value": 26
+          }, 
+          {
+            "key": "EDUCAÇÃO", 
+            "value": 23
+          }, 
+          {
+            "key": "FILOSOFIA", 
+            "value": 8
+          }, 
+          {
+            "key": "GEOGRAFIA", 
+            "value": 5
+          }, 
+          {
+            "key": "HISTÓRIA", 
+            "value": 41
+          }, 
+          {
+            "key": "HISTÓRIA REGIONAL DO BRASIL", 
+            "value": 8
+          }, 
+          {
+            "key": "PLANEJAMENTO EDUCACIONAL", 
+            "value": 38
+          }, 
+          {
+            "key": "PSICOLOGIA", 
+            "value": 13
+          }, 
+          {
+            "key": "PSICOLOGIA COGNITIVA", 
+            "value": 12
+          }, 
+          {
+            "key": "SOCIOLOGIA", 
+            "value": 34
+          }, 
+          {
+            "key": "TEOLOGIA", 
+            "value": 3
+          }, 
+          {
+            "key": "TRATAMENTO E PREVENÇÃO PSICOLÓGICA", 
+            "value": 5
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS SOCIAIS APLICADAS", 
+        "values": [
+          {
+            "key": "ADMINISTRAÇÃO", 
+            "value": 32
+          }, 
+          {
+            "key": "CIÊNCIAS CONTÁBEIS", 
+            "value": 7
+          }, 
+          {
+            "key": "COMUNICAÇÃO", 
+            "value": 17
+          }, 
+          {
+            "key": "DEMOGRAFIA", 
+            "value": 2
+          }, 
+          {
+            "key": "DESENHO INDUSTRIAL", 
+            "value": 20
+          }, 
+          {
+            "key": "DIREITO", 
+            "value": 14
+          }, 
+          {
+            "key": "ECONOMIA", 
+            "value": 6
+          }, 
+          {
+            "key": "PLANEJAMENTO URBANO E REGIONAL", 
+            "value": 23
+          }, 
+          {
+            "key": "SERVIÇO SOCIAL", 
+            "value": 25
+          }
+        ]
+      }, 
+      {
+        "key": "ENGENHARIAS", 
+        "values": [
+          {
+            "key": "ENGENHARIA CIVIL", 
+            "value": 40
+          }, 
+          {
+            "key": "ENGENHARIA DE MATERIAIS E METALÚRGICA", 
+            "value": 1
+          }, 
+          {
+            "key": "ENGENHARIA DE MINAS", 
+            "value": 10
+          }, 
+          {
+            "key": "ENGENHARIA DE PRODUÇÃO", 
+            "value": 44
+          }, 
+          {
+            "key": "ENGENHARIA ELÉTRICA", 
+            "value": 59
+          }, 
+          {
+            "key": "ENGENHARIA MECÂNICA", 
+            "value": 51
+          }, 
+          {
+            "key": "ENGENHARIA NUCLEAR", 
+            "value": 40
+          }, 
+          {
+            "key": "ENGENHARIA QUÍMICA", 
+            "value": 39
+          }, 
+          {
+            "key": "OPERAÇÕES CARACTERÍSTICAS DE PROCESSOS BIOQUÍMICOS", 
+            "value": 12
+          }
+        ]
+      }, 
+      {
+        "key": "Grande Area Não Informada", 
+        "values": [
+          {
+            "key": "Área Não Informada", 
+            "value": 8
+          }
+        ]
+      }, 
+      {
+        "key": "LINGÜÍSTICA, LETRAS E ARTES", 
+        "values": [
+          {
+            "key": "LETRAS", 
+            "value": 39
+          }, 
+          {
+            "key": "PSICOLINGUÍSTICA", 
+            "value": 3
+          }
+        ]
+      }, 
+      {
+        "key": "MULTIDISCIPLINAR", 
+        "values": [
+          {
+            "key": "BIOTECNOLOGIA", 
+            "value": 2
+          }, 
+          {
+            "key": "ENGENHARIA/TECNOLOGIA/GESTÃO", 
+            "value": 7
+          }, 
+          {
+            "key": "ENSINO DE CIÊNCIAS E MATEMÁTICA", 
+            "value": 33
+          }, 
+          {
+            "key": "MATERIAIS", 
+            "value": 20
+          }, 
+          {
+            "key": "MEIO AMBIENTE E AGRÁRIAS", 
+            "value": 6
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "key": "PI", 
+    "total": 366, 
+    "values": [
+      {
+        "key": "CIÊNCIAS AGRÁRIAS", 
+        "values": [
+          {
+            "key": "AGRONOMIA", 
+            "value": 22
+          }, 
+          {
+            "key": "CIÊNCIA DE ALIMENTOS", 
+            "value": 3
+          }, 
+          {
+            "key": "CIÊNCIA DO SOLO", 
+            "value": 6
+          }, 
+          {
+            "key": "FITOTECNIA", 
+            "value": 12
+          }, 
+          {
+            "key": "MEDICINA VETERINÁRIA", 
+            "value": 1
+          }, 
+          {
+            "key": "ZOOTECNIA", 
+            "value": 48
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS BIOLÓGICAS", 
+        "values": [
+          {
+            "key": "FARMACOLOGIA", 
+            "value": 6
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS DA SAÚDE", 
+        "values": [
+          {
+            "key": "CLÍNICA MÉDICA", 
+            "value": 20
+          }, 
+          {
+            "key": "ENFERMAGEM", 
+            "value": 1
+          }, 
+          {
+            "key": "GINECOLOGIA E OBSTETRÍCIA", 
+            "value": 1
+          }, 
+          {
+            "key": "ODONTOLOGIA", 
+            "value": 1
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS EXATAS E DA TERRA", 
+        "values": [
+          {
+            "key": "CIÊNCIA DA COMPUTAÇÃO", 
+            "value": 1
+          }, 
+          {
+            "key": "FÍSICA DA MATÉRIA CONDENSADA", 
+            "value": 20
+          }, 
+          {
+            "key": "MATEMÁTICA", 
+            "value": 4
+          }, 
+          {
+            "key": "QUÍMICA", 
+            "value": 26
+          }, 
+          {
+            "key": "SISTEMA DE COMPUTAÇÃO", 
+            "value": 9
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS HUMANAS", 
+        "values": [
+          {
+            "key": "ANTROPOLOGIA", 
+            "value": 6
+          }, 
+          {
+            "key": "CIÊNCIA POLÍTICA", 
+            "value": 5
+          }, 
+          {
+            "key": "EDUCAÇÃO", 
+            "value": 28
+          }, 
+          {
+            "key": "FILOSOFIA", 
+            "value": 13
+          }, 
+          {
+            "key": "GEOGRAFIA", 
+            "value": 10
+          }, 
+          {
+            "key": "HISTÓRIA", 
+            "value": 33
+          }, 
+          {
+            "key": "SOCIOLOGIA", 
+            "value": 1
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS SOCIAIS APLICADAS", 
+        "values": [
+          {
+            "key": "ADMINISTRAÇÃO", 
+            "value": 2
+          }, 
+          {
+            "key": "COMUNICAÇÃO", 
+            "value": 12
+          }, 
+          {
+            "key": "SERVIÇO SOCIAL", 
+            "value": 9
+          }
+        ]
+      }, 
+      {
+        "key": "ENGENHARIAS", 
+        "values": [
+          {
+            "key": "ENGENHARIA ELÉTRICA", 
+            "value": 4
+          }
+        ]
+      }, 
+      {
+        "key": "Grande Area Não Informada", 
+        "values": [
+          {
+            "key": "Área Não Informada", 
+            "value": 6
+          }
+        ]
+      }, 
+      {
+        "key": "LINGÜÍSTICA, LETRAS E ARTES", 
+        "values": [
+          {
+            "key": "LETRAS", 
+            "value": 29
+          }, 
+          {
+            "key": "LINGÜÍSTICA", 
+            "value": 1
+          }
+        ]
+      }, 
+      {
+        "key": "MULTIDISCIPLINAR", 
+        "values": [
+          {
+            "key": "BIOTECNOLOGIA", 
+            "value": 1
+          }, 
+          {
+            "key": "ENGENHARIA/TECNOLOGIA/GESTÃO", 
+            "value": 1
+          }, 
+          {
+            "key": "MATERIAIS", 
+            "value": 5
+          }, 
+          {
+            "key": "MEIO AMBIENTE E AGRÁRIAS", 
+            "value": 10
+          }, 
+          {
+            "key": "SAÚDE E BIOLÓGICAS", 
+            "value": 8
+          }, 
+          {
+            "key": "SOCIAIS E HUMANIDADES", 
+            "value": 1
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "key": "PR", 
+    "total": 3044, 
+    "values": [
+      {
+        "key": "CIÊNCIAS AGRÁRIAS", 
+        "values": [
+          {
+            "key": "AGRONOMIA", 
+            "value": 166
+          }, 
+          {
+            "key": "CIÊNCIA DE ALIMENTOS", 
+            "value": 1
+          }, 
+          {
+            "key": "CIÊNCIA E TECNOLOGIA DE ALIMENTOS", 
+            "value": 47
+          }, 
+          {
+            "key": "ENGENHARIA AGRÍCOLA", 
+            "value": 29
+          }, 
+          {
+            "key": "FITOTECNIA", 
+            "value": 51
+          }, 
+          {
+            "key": "MEDICINA VETERINÁRIA", 
+            "value": 70
+          }, 
+          {
+            "key": "RECURSOS FLORESTAIS E ENGENHARIA FLORESTAL", 
+            "value": 60
+          }, 
+          {
+            "key": "RECURSOS PESQUEIROS E ENGENHARIA DE PESCA", 
+            "value": 7
+          }, 
+          {
+            "key": "TECNOLOGIA DE ALIMENTOS", 
+            "value": 34
+          }, 
+          {
+            "key": "ZOOTECNIA", 
+            "value": 46
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS BIOLÓGICAS", 
+        "values": [
+          {
+            "key": "BIOLOGIA GERAL", 
+            "value": 57
+          }, 
+          {
+            "key": "BIOQUÍMICA", 
+            "value": 41
+          }, 
+          {
+            "key": "BOTÂNICA", 
+            "value": 13
+          }, 
+          {
+            "key": "ECOLOGIA", 
+            "value": 105
+          }, 
+          {
+            "key": "FARMACOLOGIA", 
+            "value": 39
+          }, 
+          {
+            "key": "GENÉTICA", 
+            "value": 62
+          }, 
+          {
+            "key": "MICROBIOLOGIA", 
+            "value": 59
+          }, 
+          {
+            "key": "MORFOLOGIA", 
+            "value": 48
+          }, 
+          {
+            "key": "PARASITOLOGIA", 
+            "value": 1
+          }, 
+          {
+            "key": "TAXONOMIA DOS GRUPOS RECENTES", 
+            "value": 14
+          }, 
+          {
+            "key": "ZOOLOGIA", 
+            "value": 42
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS DA SAÚDE", 
+        "values": [
+          {
+            "key": "ANATOMIA PATOLÓGICA E PATOLOGIA CLÍNICA", 
+            "value": 24
+          }, 
+          {
+            "key": "CIRURGIA", 
+            "value": 40
+          }, 
+          {
+            "key": "CLÍNICA MÉDICA", 
+            "value": 25
+          }, 
+          {
+            "key": "DOENÇAS INFECCIOSAS E PARASITÁRIAS", 
+            "value": 13
+          }, 
+          {
+            "key": "EDUCAÇÃO FÍSICA", 
+            "value": 48
+          }, 
+          {
+            "key": "ENFERMAGEM", 
+            "value": 22
+          }, 
+          {
+            "key": "FARMÁCIA", 
+            "value": 60
+          }, 
+          {
+            "key": "HEMATOLOGIA", 
+            "value": 1
+          }, 
+          {
+            "key": "MEDICINA", 
+            "value": 12
+          }, 
+          {
+            "key": "ODONTOLOGIA", 
+            "value": 45
+          }, 
+          {
+            "key": "PEDIATRIA", 
+            "value": 8
+          }, 
+          {
+            "key": "PSIQUIATRIA", 
+            "value": 1
+          }, 
+          {
+            "key": "SAÚDE COLETIVA", 
+            "value": 13
+          }, 
+          {
+            "key": "SAÚDE MATERNO-INFANTIL", 
+            "value": 9
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS EXATAS E DA TERRA", 
+        "values": [
+          {
+            "key": "CIÊNCIA DA COMPUTAÇÃO", 
+            "value": 40
+          }, 
+          {
+            "key": "FÍSICA", 
+            "value": 68
+          }, 
+          {
+            "key": "FÍSICA DA MATÉRIA CONDENSADA", 
+            "value": 37
+          }, 
+          {
+            "key": "GEOCIÊNCIAS", 
+            "value": 22
+          }, 
+          {
+            "key": "GEODÉSIA", 
+            "value": 17
+          }, 
+          {
+            "key": "MATEMÁTICA", 
+            "value": 31
+          }, 
+          {
+            "key": "MATEMÁTICA APLICADA", 
+            "value": 5
+          }, 
+          {
+            "key": "QUÍMICA", 
+            "value": 124
+          }, 
+          {
+            "key": "SISTEMA DE COMPUTAÇÃO", 
+            "value": 16
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS HUMANAS", 
+        "values": [
+          {
+            "key": "ANTROPOLOGIA", 
+            "value": 13
+          }, 
+          {
+            "key": "CIÊNCIA POLÍTICA", 
+            "value": 11
+          }, 
+          {
+            "key": "EDUCAÇÃO", 
+            "value": 113
+          }, 
+          {
+            "key": "ENSINO-APRENDIZAGEM", 
+            "value": 1
+          }, 
+          {
+            "key": "FILOSOFIA", 
+            "value": 40
+          }, 
+          {
+            "key": "GEOGRAFIA", 
+            "value": 87
+          }, 
+          {
+            "key": "HISTÓRIA", 
+            "value": 59
+          }, 
+          {
+            "key": "PSICOLOGIA", 
+            "value": 26
+          }, 
+          {
+            "key": "PSICOLOGIA DO ENSINO E DA APRENDIZAGEM", 
+            "value": 1
+          }, 
+          {
+            "key": "SOCIOLOGIA", 
+            "value": 47
+          }, 
+          {
+            "key": "TEOLOGIA", 
+            "value": 2
+          }, 
+          {
+            "key": "TRATAMENTO E PREVENÇÃO PSICOLÓGICA", 
+            "value": 2
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS SOCIAIS APLICADAS", 
+        "values": [
+          {
+            "key": "ADMINISTRAÇÃO", 
+            "value": 65
+          }, 
+          {
+            "key": "ADMINISTRAÇÃO DE EMPRESAS", 
+            "value": 22
+          }, 
+          {
+            "key": "CIÊNCIAS CONTÁBEIS", 
+            "value": 13
+          }, 
+          {
+            "key": "COMUNICAÇÃO", 
+            "value": 1
+          }, 
+          {
+            "key": "COMUNICAÇÃO VISUAL", 
+            "value": 5
+          }, 
+          {
+            "key": "DESENHO INDUSTRIAL", 
+            "value": 18
+          }, 
+          {
+            "key": "DIREITO", 
+            "value": 52
+          }, 
+          {
+            "key": "ECONOMIA", 
+            "value": 27
+          }, 
+          {
+            "key": "ECONOMIA AGRÁRIA", 
+            "value": 1
+          }, 
+          {
+            "key": "ECONOMIA REGIONAL", 
+            "value": 3
+          }, 
+          {
+            "key": "PLANEJAMENTO URBANO E REGIONAL", 
+            "value": 16
+          }, 
+          {
+            "key": "SERVIÇO SOCIAL", 
+            "value": 9
+          }, 
+          {
+            "key": "TEORIA ECONÔMICA", 
+            "value": 10
+          }
+        ]
+      }, 
+      {
+        "key": "ENGENHARIAS", 
+        "values": [
+          {
+            "key": "ENGENHARIA AEROESPACIAL", 
+            "value": 2
+          }, 
+          {
+            "key": "ENGENHARIA CIVIL", 
+            "value": 44
+          }, 
+          {
+            "key": "ENGENHARIA DE MATERIAIS E METALÚRGICA", 
+            "value": 16
+          }, 
+          {
+            "key": "ENGENHARIA DE PRODUÇÃO", 
+            "value": 33
+          }, 
+          {
+            "key": "ENGENHARIA ELÉTRICA", 
+            "value": 70
+          }, 
+          {
+            "key": "ENGENHARIA HIDRÁULICA", 
+            "value": 18
+          }, 
+          {
+            "key": "ENGENHARIA MECÂNICA", 
+            "value": 94
+          }, 
+          {
+            "key": "ENGENHARIA QUÍMICA", 
+            "value": 86
+          }, 
+          {
+            "key": "ESTRUTURAS", 
+            "value": 1
+          }
+        ]
+      }, 
+      {
+        "key": "Grande Area Não Informada", 
+        "values": [
+          {
+            "key": "Área Não Informada", 
+            "value": 50
+          }
+        ]
+      }, 
+      {
+        "key": "LINGÜÍSTICA, LETRAS E ARTES", 
+        "values": [
+          {
+            "key": "LETRAS", 
+            "value": 93
+          }, 
+          {
+            "key": "LINGÜÍSTICA APLICADA", 
+            "value": 1
+          }, 
+          {
+            "key": "LÍNGUA PORTUGUESA", 
+            "value": 21
+          }, 
+          {
+            "key": "MÚSICA", 
+            "value": 13
+          }
+        ]
+      }, 
+      {
+        "key": "MULTIDISCIPLINAR", 
+        "values": [
+          {
+            "key": "BIOTECNOLOGIA", 
+            "value": 30
+          }, 
+          {
+            "key": "ENGENHARIA/TECNOLOGIA/GESTÃO", 
+            "value": 9
+          }, 
+          {
+            "key": "ENSINO DE CIÊNCIAS E MATEMÁTICA", 
+            "value": 38
+          }, 
+          {
+            "key": "MATERIAIS", 
+            "value": 27
+          }, 
+          {
+            "key": "MEIO AMBIENTE E AGRÁRIAS", 
+            "value": 19
+          }, 
+          {
+            "key": "SAÚDE E BIOLÓGICAS", 
+            "value": 18
+          }, 
+          {
+            "key": "SOCIAIS E HUMANIDADES", 
+            "value": 44
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "key": "RJ", 
+    "total": 5826, 
+    "values": [
+      {
+        "key": "CIÊNCIAS AGRÁRIAS", 
+        "values": [
+          {
+            "key": "AGRONOMIA", 
+            "value": 69
+          }, 
+          {
+            "key": "CIÊNCIA DE ALIMENTOS", 
+            "value": 22
+          }, 
+          {
+            "key": "CIÊNCIA DO SOLO", 
+            "value": 35
+          }, 
+          {
+            "key": "CIÊNCIA E TECNOLOGIA DE ALIMENTOS", 
+            "value": 26
+          }, 
+          {
+            "key": "ENGENHARIA AGRÍCOLA", 
+            "value": 1
+          }, 
+          {
+            "key": "MEDICINA VETERINÁRIA", 
+            "value": 99
+          }, 
+          {
+            "key": "MEDICINA VETERINÁRIA PREVENTIVA", 
+            "value": 3
+          }, 
+          {
+            "key": "MELHORAMENTO VEGETAL", 
+            "value": 16
+          }, 
+          {
+            "key": "RECURSOS FLORESTAIS E ENGENHARIA FLORESTAL", 
+            "value": 37
+          }, 
+          {
+            "key": "ZOOTECNIA", 
+            "value": 49
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS BIOLÓGICAS", 
+        "values": [
+          {
+            "key": "BIOFÍSICA", 
+            "value": 134
+          }, 
+          {
+            "key": "BIOLOGIA GERAL", 
+            "value": 42
+          }, 
+          {
+            "key": "BIOQUÍMICA", 
+            "value": 98
+          }, 
+          {
+            "key": "BOTÂNICA", 
+            "value": 42
+          }, 
+          {
+            "key": "ECOLOGIA", 
+            "value": 75
+          }, 
+          {
+            "key": "FARMACOLOGIA", 
+            "value": 22
+          }, 
+          {
+            "key": "FISIOLOGIA", 
+            "value": 77
+          }, 
+          {
+            "key": "GENÉTICA", 
+            "value": 33
+          }, 
+          {
+            "key": "MICROBIOLOGIA", 
+            "value": 72
+          }, 
+          {
+            "key": "MICROBIOLOGIA APLICADA", 
+            "value": 7
+          }, 
+          {
+            "key": "MORFOLOGIA", 
+            "value": 62
+          }, 
+          {
+            "key": "PARASITOLOGIA", 
+            "value": 38
+          }, 
+          {
+            "key": "ZOOLOGIA", 
+            "value": 68
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS DA SAÚDE", 
+        "values": [
+          {
+            "key": "ANATOMIA PATOLÓGICA E PATOLOGIA CLÍNICA", 
+            "value": 31
+          }, 
+          {
+            "key": "CANCEROLOGIA", 
+            "value": 21
+          }, 
+          {
+            "key": "CARDIOLOGIA", 
+            "value": 29
+          }, 
+          {
+            "key": "CIRURGIA", 
+            "value": 10
+          }, 
+          {
+            "key": "CLÍNICA MÉDICA", 
+            "value": 48
+          }, 
+          {
+            "key": "DERMATOLOGIA", 
+            "value": 6
+          }, 
+          {
+            "key": "DOENÇAS INFECCIOSAS E PARASITÁRIAS", 
+            "value": 39
+          }, 
+          {
+            "key": "EDUCAÇÃO FÍSICA", 
+            "value": 2
+          }, 
+          {
+            "key": "ENDOCRINOLOGIA", 
+            "value": 16
+          }, 
+          {
+            "key": "ENFERMAGEM", 
+            "value": 52
+          }, 
+          {
+            "key": "FARMÁCIA", 
+            "value": 21
+          }, 
+          {
+            "key": "MEDICINA", 
+            "value": 43
+          }, 
+          {
+            "key": "NEUROLOGIA", 
+            "value": 29
+          }, 
+          {
+            "key": "NUTRIÇÃO", 
+            "value": 18
+          }, 
+          {
+            "key": "ODONTOLOGIA", 
+            "value": 32
+          }, 
+          {
+            "key": "ORTODONTIA", 
+            "value": 42
+          }, 
+          {
+            "key": "PEDIATRIA", 
+            "value": 2
+          }, 
+          {
+            "key": "PSIQUIATRIA", 
+            "value": 16
+          }, 
+          {
+            "key": "RADIOLOGIA MÉDICA", 
+            "value": 24
+          }, 
+          {
+            "key": "SAÚDE COLETIVA", 
+            "value": 76
+          }, 
+          {
+            "key": "SAÚDE PÚBLICA", 
+            "value": 102
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS EXATAS E DA TERRA", 
+        "values": [
+          {
+            "key": "ASTRONOMIA", 
+            "value": 28
+          }, 
+          {
+            "key": "CIÊNCIA DA COMPUTAÇÃO", 
+            "value": 127
+          }, 
+          {
+            "key": "ESTATÍSTICA", 
+            "value": 21
+          }, 
+          {
+            "key": "FÍSICA", 
+            "value": 133
+          }, 
+          {
+            "key": "GEOCIÊNCIAS", 
+            "value": 35
+          }, 
+          {
+            "key": "GEOFÍSICA", 
+            "value": 14
+          }, 
+          {
+            "key": "GEOLOGIA", 
+            "value": 32
+          }, 
+          {
+            "key": "GEOQUÍMICA", 
+            "value": 32
+          }, 
+          {
+            "key": "MATEMÁTICA", 
+            "value": 74
+          }, 
+          {
+            "key": "MATEMÁTICA APLICADA", 
+            "value": 26
+          }, 
+          {
+            "key": "METEOROLOGIA", 
+            "value": 2
+          }, 
+          {
+            "key": "OCEANOGRAFIA BIOLÓGICA", 
+            "value": 27
+          }, 
+          {
+            "key": "OCEANOGRAFIA GEOLÓGICA", 
+            "value": 4
+          }, 
+          {
+            "key": "QUÍMICA", 
+            "value": 156
+          }, 
+          {
+            "key": "QUÍMICA DOS PRODUTOS NATURAIS", 
+            "value": 28
+          }, 
+          {
+            "key": "QUÍMICA ORGÂNICA", 
+            "value": 91
+          }, 
+          {
+            "key": "SISTEMA DE COMPUTAÇÃO", 
+            "value": 64
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS HUMANAS", 
+        "values": [
+          {
+            "key": "ANTROPOLOGIA", 
+            "value": 63
+          }, 
+          {
+            "key": "ARQUEOLOGIA", 
+            "value": 4
+          }, 
+          {
+            "key": "CIÊNCIA POLÍTICA", 
+            "value": 63
+          }, 
+          {
+            "key": "EDUCAÇÃO", 
+            "value": 99
+          }, 
+          {
+            "key": "EDUCAÇÃO EM PERIFERIAS URBANAS", 
+            "value": 5
+          }, 
+          {
+            "key": "ENSINO PROFISSIONALIZANTE", 
+            "value": 4
+          }, 
+          {
+            "key": "EPISTEMOLOGIA", 
+            "value": 11
+          }, 
+          {
+            "key": "ESTADO E GOVERNO", 
+            "value": 5
+          }, 
+          {
+            "key": "FILOSOFIA", 
+            "value": 60
+          }, 
+          {
+            "key": "GEOGRAFIA", 
+            "value": 69
+          }, 
+          {
+            "key": "HISTÓRIA", 
+            "value": 178
+          }, 
+          {
+            "key": "OUTRAS SOCIOLOGIAS ESPECÍFICAS", 
+            "value": 39
+          }, 
+          {
+            "key": "POLÍTICA INTERNACIONAL", 
+            "value": 2
+          }, 
+          {
+            "key": "PSICOLOGIA", 
+            "value": 100
+          }, 
+          {
+            "key": "RELAÇÕES INTERNACIONAIS, BILATERAIS E MULTILATERAIS", 
+            "value": 16
+          }, 
+          {
+            "key": "SOCIOLOGIA", 
+            "value": 105
+          }, 
+          {
+            "key": "TEOLOGIA", 
+            "value": 15
+          }, 
+          {
+            "key": "TRATAMENTO E PREVENÇÃO PSICOLÓGICA", 
+            "value": 40
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS SOCIAIS APLICADAS", 
+        "values": [
+          {
+            "key": "ADMINISTRAÇÃO", 
+            "value": 35
+          }, 
+          {
+            "key": "ADMINISTRAÇÃO DE EMPRESAS", 
+            "value": 18
+          }, 
+          {
+            "key": "ADMINISTRAÇÃO PÚBLICA", 
+            "value": 34
+          }, 
+          {
+            "key": "ARQUITETURA E URBANISMO", 
+            "value": 32
+          }, 
+          {
+            "key": "CIÊNCIA DA INFORMAÇÃO", 
+            "value": 25
+          }, 
+          {
+            "key": "CIÊNCIAS CONTÁBEIS", 
+            "value": 8
+          }, 
+          {
+            "key": "COMUNICAÇÃO", 
+            "value": 63
+          }, 
+          {
+            "key": "DEMOGRAFIA", 
+            "value": 11
+          }, 
+          {
+            "key": "DESENHO INDUSTRIAL", 
+            "value": 38
+          }, 
+          {
+            "key": "DIREITO", 
+            "value": 32
+          }, 
+          {
+            "key": "ECONOMIA", 
+            "value": 81
+          }, 
+          {
+            "key": "FUNDAMENTOS DO SERVIÇO SOCIAL", 
+            "value": 14
+          }, 
+          {
+            "key": "MUSEOLOGIA", 
+            "value": 6
+          }, 
+          {
+            "key": "PLANEJAMENTO URBANO E REGIONAL", 
+            "value": 18
+          }, 
+          {
+            "key": "SERVIÇO SOCIAL", 
+            "value": 40
+          }, 
+          {
+            "key": "TECNOLOGIA DE ARQUITETURA E URBANISMO", 
+            "value": 17
+          }, 
+          {
+            "key": "TEORIA DO DIREITO", 
+            "value": 13
+          }, 
+          {
+            "key": "TEORIA ECONÔMICA", 
+            "value": 22
+          }
+        ]
+      }, 
+      {
+        "key": "ENGENHARIAS", 
+        "values": [
+          {
+            "key": "ENGENHARIA BIOMÉDICA", 
+            "value": 15
+          }, 
+          {
+            "key": "ENGENHARIA CIVIL", 
+            "value": 184
+          }, 
+          {
+            "key": "ENGENHARIA DE MATERIAIS E METALÚRGICA", 
+            "value": 120
+          }, 
+          {
+            "key": "ENGENHARIA DE PRODUÇÃO", 
+            "value": 156
+          }, 
+          {
+            "key": "ENGENHARIA DE TRANSPORTES", 
+            "value": 39
+          }, 
+          {
+            "key": "ENGENHARIA ELÉTRICA", 
+            "value": 147
+          }, 
+          {
+            "key": "ENGENHARIA MECÂNICA", 
+            "value": 129
+          }, 
+          {
+            "key": "ENGENHARIA NAVAL E OCEÂNICA", 
+            "value": 40
+          }, 
+          {
+            "key": "ENGENHARIA NUCLEAR", 
+            "value": 28
+          }, 
+          {
+            "key": "ENGENHARIA QUÍMICA", 
+            "value": 81
+          }, 
+          {
+            "key": "ENGENHARIA SANITÁRIA", 
+            "value": 1
+          }, 
+          {
+            "key": "GARANTIA DE CONTROLE DE QUALIDADE", 
+            "value": 4
+          }, 
+          {
+            "key": "POLÍMEROS,  APLICAÇÕES", 
+            "value": 45
+          }, 
+          {
+            "key": "PROCESSOS BIOQUÍMICOS", 
+            "value": 42
+          }
+        ]
+      }, 
+      {
+        "key": "Grande Area Não Informada", 
+        "values": [
+          {
+            "key": "Área Não Informada", 
+            "value": 162
+          }
+        ]
+      }, 
+      {
+        "key": "LINGÜÍSTICA, LETRAS E ARTES", 
+        "values": [
+          {
+            "key": "ARTES", 
+            "value": 52
+          }, 
+          {
+            "key": "LETRAS", 
+            "value": 121
+          }, 
+          {
+            "key": "LINGÜÍSTICA", 
+            "value": 17
+          }, 
+          {
+            "key": "LITERATURA BRASILEIRA", 
+            "value": 30
+          }, 
+          {
+            "key": "MÚSICA", 
+            "value": 33
+          }, 
+          {
+            "key": "TEORIA LITERARIA", 
+            "value": 16
+          }
+        ]
+      }, 
+      {
+        "key": "MULTIDISCIPLINAR", 
+        "values": [
+          {
+            "key": "BIOTECNOLOGIA", 
+            "value": 58
+          }, 
+          {
+            "key": "ENGENHARIA/TECNOLOGIA/GESTÃO", 
+            "value": 66
+          }, 
+          {
+            "key": "ENSINO DE CIÊNCIAS E MATEMÁTICA", 
+            "value": 31
+          }, 
+          {
+            "key": "MEIO AMBIENTE E AGRÁRIAS", 
+            "value": 22
+          }, 
+          {
+            "key": "SAÚDE E BIOLÓGICAS", 
+            "value": 35
+          }, 
+          {
+            "key": "SOCIAIS E HUMANIDADES", 
+            "value": 87
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "key": "RN", 
+    "total": 1103, 
+    "values": [
+      {
+        "key": "CIÊNCIAS AGRÁRIAS", 
+        "values": [
+          {
+            "key": "AGRONOMIA", 
+            "value": 39
+          }, 
+          {
+            "key": "CIÊNCIA DE ALIMENTOS", 
+            "value": 1
+          }, 
+          {
+            "key": "CIÊNCIA DO SOLO", 
+            "value": 10
+          }, 
+          {
+            "key": "ENGENHARIA AGRÍCOLA", 
+            "value": 9
+          }, 
+          {
+            "key": "GENÉTICA E MELHORAMENTO DOS ANIMAIS DOMÉSTICOS", 
+            "value": 1
+          }, 
+          {
+            "key": "MEDICINA VETERINÁRIA", 
+            "value": 14
+          }, 
+          {
+            "key": "ZOOTECNIA", 
+            "value": 8
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS BIOLÓGICAS", 
+        "values": [
+          {
+            "key": "BIOLOGIA GERAL", 
+            "value": 15
+          }, 
+          {
+            "key": "BIOQUÍMICA", 
+            "value": 31
+          }, 
+          {
+            "key": "ECOLOGIA", 
+            "value": 24
+          }, 
+          {
+            "key": "GENÉTICA", 
+            "value": 3
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS DA SAÚDE", 
+        "values": [
+          {
+            "key": "CIRURGIA", 
+            "value": 1
+          }, 
+          {
+            "key": "CLÍNICA ODONTOLÓGICA", 
+            "value": 2
+          }, 
+          {
+            "key": "ENFERMAGEM", 
+            "value": 6
+          }, 
+          {
+            "key": "FARMÁCIA", 
+            "value": 13
+          }, 
+          {
+            "key": "FISIOTERAPIA E TERAPIA OCUPACIONAL", 
+            "value": 19
+          }, 
+          {
+            "key": "NUTRIÇÃO", 
+            "value": 26
+          }, 
+          {
+            "key": "ODONTOLOGIA", 
+            "value": 24
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS EXATAS E DA TERRA", 
+        "values": [
+          {
+            "key": "CIÊNCIA DA COMPUTAÇÃO", 
+            "value": 42
+          }, 
+          {
+            "key": "FÍSICA DA MATÉRIA CONDENSADA", 
+            "value": 52
+          }, 
+          {
+            "key": "GEOCIÊNCIAS", 
+            "value": 25
+          }, 
+          {
+            "key": "MATEMÁTICA", 
+            "value": 4
+          }, 
+          {
+            "key": "PROBABILIDADE E ESTATÍSTICA", 
+            "value": 11
+          }, 
+          {
+            "key": "QUÍMICA", 
+            "value": 49
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS HUMANAS", 
+        "values": [
+          {
+            "key": "ANTROPOLOGIA", 
+            "value": 14
+          }, 
+          {
+            "key": "EDUCAÇÃO", 
+            "value": 69
+          }, 
+          {
+            "key": "FILOSOFIA", 
+            "value": 27
+          }, 
+          {
+            "key": "GEOGRAFIA", 
+            "value": 13
+          }, 
+          {
+            "key": "HISTÓRIA", 
+            "value": 10
+          }, 
+          {
+            "key": "PSICOLOGIA", 
+            "value": 50
+          }, 
+          {
+            "key": "SOCIOLOGIA", 
+            "value": 1
+          }, 
+          {
+            "key": "SOCIOLOGIA DO DESENVOLVIMENTO", 
+            "value": 48
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS SOCIAIS APLICADAS", 
+        "values": [
+          {
+            "key": "ADMINISTRAÇÃO", 
+            "value": 17
+          }, 
+          {
+            "key": "ARQUITETURA E URBANISMO", 
+            "value": 19
+          }, 
+          {
+            "key": "CIÊNCIAS CONTÁBEIS", 
+            "value": 1
+          }, 
+          {
+            "key": "COMUNICAÇÃO", 
+            "value": 4
+          }, 
+          {
+            "key": "DIREITO", 
+            "value": 7
+          }, 
+          {
+            "key": "ECONOMIA REGIONAL", 
+            "value": 6
+          }, 
+          {
+            "key": "SERVIÇO SOCIAL", 
+            "value": 13
+          }, 
+          {
+            "key": "TURISMO", 
+            "value": 11
+          }
+        ]
+      }, 
+      {
+        "key": "ENGENHARIAS", 
+        "values": [
+          {
+            "key": "ENGENHARIA CIVIL", 
+            "value": 9
+          }, 
+          {
+            "key": "ENGENHARIA DE PRODUÇÃO", 
+            "value": 17
+          }, 
+          {
+            "key": "ENGENHARIA ELÉTRICA", 
+            "value": 52
+          }, 
+          {
+            "key": "ENGENHARIA MECÂNICA", 
+            "value": 59
+          }, 
+          {
+            "key": "ENGENHARIA QUÍMICA", 
+            "value": 48
+          }, 
+          {
+            "key": "ENGENHARIA SANITÁRIA", 
+            "value": 20
+          }
+        ]
+      }, 
+      {
+        "key": "Grande Area Não Informada", 
+        "values": [
+          {
+            "key": "Área Não Informada", 
+            "value": 32
+          }
+        ]
+      }, 
+      {
+        "key": "LINGÜÍSTICA, LETRAS E ARTES", 
+        "values": [
+          {
+            "key": "LETRAS", 
+            "value": 30
+          }, 
+          {
+            "key": "MÚSICA", 
+            "value": 15
+          }, 
+          {
+            "key": "TEATRO", 
+            "value": 13
+          }
+        ]
+      }, 
+      {
+        "key": "MULTIDISCIPLINAR", 
+        "values": [
+          {
+            "key": "ENSINO DE CIÊNCIAS E MATEMÁTICA", 
+            "value": 5
+          }, 
+          {
+            "key": "MATERIAIS", 
+            "value": 52
+          }, 
+          {
+            "key": "MEIO AMBIENTE E AGRÁRIAS", 
+            "value": 12
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "key": "RO", 
+    "total": 137, 
+    "values": [
+      {
+        "key": "CIÊNCIAS AGRÁRIAS", 
+        "values": [
+          {
+            "key": "AGRONOMIA", 
+            "value": 1
+          }, 
+          {
+            "key": "CIÊNCIA DO SOLO", 
+            "value": 1
+          }, 
+          {
+            "key": "CIÊNCIA E TECNOLOGIA DE ALIMENTOS", 
+            "value": 10
+          }, 
+          {
+            "key": "FITOSSANIDADE", 
+            "value": 1
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS BIOLÓGICAS", 
+        "values": [
+          {
+            "key": "BOTÂNICA", 
+            "value": 1
+          }, 
+          {
+            "key": "PARASITOLOGIA", 
+            "value": 31
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS DA SAÚDE", 
+        "values": [
+          {
+            "key": "EDUCAÇÃO FÍSICA", 
+            "value": 15
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS EXATAS E DA TERRA", 
+        "values": [
+          {
+            "key": "GEOCIÊNCIAS", 
+            "value": 4
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS HUMANAS", 
+        "values": [
+          {
+            "key": "EDUCAÇÃO", 
+            "value": 21
+          }, 
+          {
+            "key": "GEOGRAFIA", 
+            "value": 9
+          }, 
+          {
+            "key": "PLANEJAMENTO EDUCACIONAL", 
+            "value": 1
+          }, 
+          {
+            "key": "PSICOLOGIA", 
+            "value": 2
+          }, 
+          {
+            "key": "SOCIOLOGIA DO DESENVOLVIMENTO", 
+            "value": 1
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS SOCIAIS APLICADAS", 
+        "values": [
+          {
+            "key": "ADMINISTRAÇÃO", 
+            "value": 9
+          }
+        ]
+      }, 
+      {
+        "key": "Grande Area Não Informada", 
+        "values": [
+          {
+            "key": "Área Não Informada", 
+            "value": 6
+          }
+        ]
+      }, 
+      {
+        "key": "LINGÜÍSTICA, LETRAS E ARTES", 
+        "values": [
+          {
+            "key": "LINGÜÍSTICA", 
+            "value": 9
+          }, 
+          {
+            "key": "LÍNGUA PORTUGUESA", 
+            "value": 1
+          }
+        ]
+      }, 
+      {
+        "key": "MULTIDISCIPLINAR", 
+        "values": [
+          {
+            "key": "MEIO AMBIENTE E AGRÁRIAS", 
+            "value": 14
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "key": "RR", 
+    "total": 50, 
+    "values": [
+      {
+        "key": "CIÊNCIAS AGRÁRIAS", 
+        "values": [
+          {
+            "key": "AGRONOMIA", 
+            "value": 6
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS EXATAS E DA TERRA", 
+        "values": [
+          {
+            "key": "FÍSICA", 
+            "value": 6
+          }, 
+          {
+            "key": "QUÍMICA", 
+            "value": 8
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS HUMANAS", 
+        "values": [
+          {
+            "key": "EDUCAÇÃO", 
+            "value": 4
+          }, 
+          {
+            "key": "GEOGRAFIA", 
+            "value": 1
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS SOCIAIS APLICADAS", 
+        "values": [
+          {
+            "key": "COMUNICAÇÃO", 
+            "value": 1
+          }
+        ]
+      }, 
+      {
+        "key": "ENGENHARIAS", 
+        "values": [
+          {
+            "key": "ENGENHARIA DE TRANSPORTES", 
+            "value": 1
+          }, 
+          {
+            "key": "ENGENHARIA MECÂNICA", 
+            "value": 1
+          }
+        ]
+      }, 
+      {
+        "key": "Grande Area Não Informada", 
+        "values": [
+          {
+            "key": "Área Não Informada", 
+            "value": 3
+          }
+        ]
+      }, 
+      {
+        "key": "LINGÜÍSTICA, LETRAS E ARTES", 
+        "values": [
+          {
+            "key": "LETRAS", 
+            "value": 4
+          }, 
+          {
+            "key": "LINGÜÍSTICA", 
+            "value": 1
+          }
+        ]
+      }, 
+      {
+        "key": "MULTIDISCIPLINAR", 
+        "values": [
+          {
+            "key": "ENSINO DE CIÊNCIAS E MATEMÁTICA", 
+            "value": 1
+          }, 
+          {
+            "key": "MEIO AMBIENTE E AGRÁRIAS", 
+            "value": 13
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "key": "RS", 
+    "total": 4933, 
+    "values": [
+      {
+        "key": "CIÊNCIAS AGRÁRIAS", 
+        "values": [
+          {
+            "key": "AGRONOMIA", 
+            "value": 269
+          }, 
+          {
+            "key": "AQUICULTURA", 
+            "value": 19
+          }, 
+          {
+            "key": "CIÊNCIA DO SOLO", 
+            "value": 22
+          }, 
+          {
+            "key": "CIÊNCIA E TECNOLOGIA DE ALIMENTOS", 
+            "value": 38
+          }, 
+          {
+            "key": "ENGENHARIA AGRÍCOLA", 
+            "value": 30
+          }, 
+          {
+            "key": "ENGENHARIA DE ALIMENTOS", 
+            "value": 54
+          }, 
+          {
+            "key": "EXTENSÃO RURAL", 
+            "value": 24
+          }, 
+          {
+            "key": "FITOSSANIDADE", 
+            "value": 31
+          }, 
+          {
+            "key": "MEDICINA VETERINÁRIA", 
+            "value": 104
+          }, 
+          {
+            "key": "RECURSOS FLORESTAIS E ENGENHARIA FLORESTAL", 
+            "value": 38
+          }, 
+          {
+            "key": "TECNOLOGIA DE ALIMENTOS", 
+            "value": 32
+          }, 
+          {
+            "key": "ZOOTECNIA", 
+            "value": 100
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS BIOLÓGICAS", 
+        "values": [
+          {
+            "key": "BIOLOGIA GERAL", 
+            "value": 116
+          }, 
+          {
+            "key": "BIOQUÍMICA", 
+            "value": 87
+          }, 
+          {
+            "key": "BOTÂNICA", 
+            "value": 33
+          }, 
+          {
+            "key": "ECOLOGIA", 
+            "value": 52
+          }, 
+          {
+            "key": "FARMACOLOGIA", 
+            "value": 15
+          }, 
+          {
+            "key": "FISIOLOGIA", 
+            "value": 47
+          }, 
+          {
+            "key": "GENÉTICA", 
+            "value": 36
+          }, 
+          {
+            "key": "NEUROFISIOLOGIA", 
+            "value": 26
+          }, 
+          {
+            "key": "PARASITOLOGIA", 
+            "value": 9
+          }, 
+          {
+            "key": "ZOOLOGIA", 
+            "value": 72
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS DA SAÚDE", 
+        "values": [
+          {
+            "key": "ANATOMIA PATOLÓGICA E PATOLOGIA CLÍNICA", 
+            "value": 33
+          }, 
+          {
+            "key": "CARDIOLOGIA", 
+            "value": 18
+          }, 
+          {
+            "key": "CIRURGIA", 
+            "value": 17
+          }, 
+          {
+            "key": "CLÍNICA MÉDICA", 
+            "value": 114
+          }, 
+          {
+            "key": "DOENÇAS INFECCIOSAS E PARASITÁRIAS", 
+            "value": 9
+          }, 
+          {
+            "key": "EDUCAÇÃO FÍSICA", 
+            "value": 40
+          }, 
+          {
+            "key": "ENDOCRINOLOGIA", 
+            "value": 27
+          }, 
+          {
+            "key": "ENDODONTIA", 
+            "value": 19
+          }, 
+          {
+            "key": "ENFERMAGEM", 
+            "value": 51
+          }, 
+          {
+            "key": "EPIDEMIOLOGIA", 
+            "value": 27
+          }, 
+          {
+            "key": "FARMÁCIA", 
+            "value": 66
+          }, 
+          {
+            "key": "FONOAUDIOLOGIA", 
+            "value": 10
+          }, 
+          {
+            "key": "GASTROENTEROLOGIA", 
+            "value": 17
+          }, 
+          {
+            "key": "MEDICINA", 
+            "value": 47
+          }, 
+          {
+            "key": "MEDICINA PREVENTIVA", 
+            "value": 17
+          }, 
+          {
+            "key": "ODONTOLOGIA", 
+            "value": 119
+          }, 
+          {
+            "key": "ODONTOPEDIATRIA", 
+            "value": 1
+          }, 
+          {
+            "key": "ORTODONTIA", 
+            "value": 1
+          }, 
+          {
+            "key": "PEDIATRIA", 
+            "value": 46
+          }, 
+          {
+            "key": "PNEUMOLOGIA", 
+            "value": 16
+          }, 
+          {
+            "key": "PSIQUIATRIA", 
+            "value": 28
+          }, 
+          {
+            "key": "SAÚDE COLETIVA", 
+            "value": 12
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS EXATAS E DA TERRA", 
+        "values": [
+          {
+            "key": "CIÊNCIA DA COMPUTAÇÃO", 
+            "value": 94
+          }, 
+          {
+            "key": "FÍSICA", 
+            "value": 64
+          }, 
+          {
+            "key": "GEOCIÊNCIAS", 
+            "value": 88
+          }, 
+          {
+            "key": "MATEMÁTICA", 
+            "value": 32
+          }, 
+          {
+            "key": "MATEMÁTICA APLICADA", 
+            "value": 11
+          }, 
+          {
+            "key": "METEOROLOGIA", 
+            "value": 9
+          }, 
+          {
+            "key": "OCEANOGRAFIA BIOLÓGICA", 
+            "value": 46
+          }, 
+          {
+            "key": "QUÍMICA", 
+            "value": 129
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS HUMANAS", 
+        "values": [
+          {
+            "key": "ANTROPOLOGIA", 
+            "value": 29
+          }, 
+          {
+            "key": "CIÊNCIA POLÍTICA", 
+            "value": 49
+          }, 
+          {
+            "key": "EDUCAÇÃO", 
+            "value": 251
+          }, 
+          {
+            "key": "FILOSOFIA", 
+            "value": 82
+          }, 
+          {
+            "key": "GEOGRAFIA", 
+            "value": 40
+          }, 
+          {
+            "key": "GEOGRAFIA REGIONAL", 
+            "value": 8
+          }, 
+          {
+            "key": "HISTÓRIA", 
+            "value": 99
+          }, 
+          {
+            "key": "HISTÓRIA LATINO-AMERICANA", 
+            "value": 25
+          }, 
+          {
+            "key": "PSICOLOGIA", 
+            "value": 35
+          }, 
+          {
+            "key": "PSICOLOGIA SOCIAL", 
+            "value": 78
+          }, 
+          {
+            "key": "SOCIOLOGIA", 
+            "value": 69
+          }, 
+          {
+            "key": "TEOLOGIA", 
+            "value": 15
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS SOCIAIS APLICADAS", 
+        "values": [
+          {
+            "key": "ADMINISTRAÇÃO", 
+            "value": 85
+          }, 
+          {
+            "key": "ADMINISTRAÇÃO DE EMPRESAS", 
+            "value": 3
+          }, 
+          {
+            "key": "ARQUITETURA E URBANISMO", 
+            "value": 32
+          }, 
+          {
+            "key": "COMUNICAÇÃO", 
+            "value": 117
+          }, 
+          {
+            "key": "DESENHO INDUSTRIAL", 
+            "value": 13
+          }, 
+          {
+            "key": "DIREITO", 
+            "value": 86
+          }, 
+          {
+            "key": "DIREITO PÚBLICO", 
+            "value": 21
+          }, 
+          {
+            "key": "ECONOMIA", 
+            "value": 58
+          }, 
+          {
+            "key": "PLANEJAMENTO URBANO E REGIONAL", 
+            "value": 45
+          }, 
+          {
+            "key": "SERVIÇO SOCIAL", 
+            "value": 48
+          }, 
+          {
+            "key": "TURISMO", 
+            "value": 5
+          }
+        ]
+      }, 
+      {
+        "key": "ENGENHARIAS", 
+        "values": [
+          {
+            "key": "ENGENHARIA CIVIL", 
+            "value": 114
+          }, 
+          {
+            "key": "ENGENHARIA DE MATERIAIS E METALÚRGICA", 
+            "value": 102
+          }, 
+          {
+            "key": "ENGENHARIA DE PRODUÇÃO", 
+            "value": 67
+          }, 
+          {
+            "key": "ENGENHARIA ELÉTRICA", 
+            "value": 97
+          }, 
+          {
+            "key": "ENGENHARIA MECÂNICA", 
+            "value": 40
+          }, 
+          {
+            "key": "ENGENHARIA QUÍMICA", 
+            "value": 36
+          }, 
+          {
+            "key": "ENGENHARIA SANITÁRIA", 
+            "value": 9
+          }, 
+          {
+            "key": "ESTRUTURAS NAVAIS E OCEÂNICAS", 
+            "value": 12
+          }
+        ]
+      }, 
+      {
+        "key": "Grande Area Não Informada", 
+        "values": [
+          {
+            "key": "Área Não Informada", 
+            "value": 48
+          }
+        ]
+      }, 
+      {
+        "key": "LINGÜÍSTICA, LETRAS E ARTES", 
+        "values": [
+          {
+            "key": "ARTES", 
+            "value": 42
+          }, 
+          {
+            "key": "LETRAS", 
+            "value": 126
+          }, 
+          {
+            "key": "LINGÜÍSTICA", 
+            "value": 82
+          }, 
+          {
+            "key": "LINGÜÍSTICA APLICADA", 
+            "value": 22
+          }, 
+          {
+            "key": "LÍNGUA PORTUGUESA", 
+            "value": 1
+          }, 
+          {
+            "key": "MÚSICA", 
+            "value": 25
+          }
+        ]
+      }, 
+      {
+        "key": "MULTIDISCIPLINAR", 
+        "values": [
+          {
+            "key": "BIOTECNOLOGIA", 
+            "value": 47
+          }, 
+          {
+            "key": "ENGENHARIA/TECNOLOGIA/GESTÃO", 
+            "value": 57
+          }, 
+          {
+            "key": "ENSINO", 
+            "value": 32
+          }, 
+          {
+            "key": "ENSINO DE CIÊNCIAS E MATEMÁTICA", 
+            "value": 43
+          }, 
+          {
+            "key": "INTERDISCIPLINAR", 
+            "value": 5
+          }, 
+          {
+            "key": "MATERIAIS", 
+            "value": 46
+          }, 
+          {
+            "key": "MEIO AMBIENTE E AGRÁRIAS", 
+            "value": 57
+          }, 
+          {
+            "key": "SAÚDE E BIOLÓGICAS", 
+            "value": 22
+          }, 
+          {
+            "key": "SOCIAIS E HUMANIDADES", 
+            "value": 46
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "key": "SC", 
+    "total": 1756, 
+    "values": [
+      {
+        "key": "CIÊNCIAS AGRÁRIAS", 
+        "values": [
+          {
+            "key": "AGRONOMIA", 
+            "value": 86
+          }, 
+          {
+            "key": "CIÊNCIA DE ALIMENTOS", 
+            "value": 28
+          }, 
+          {
+            "key": "CIÊNCIA E TECNOLOGIA DE ALIMENTOS", 
+            "value": 1
+          }, 
+          {
+            "key": "ENGENHARIA DE ALIMENTOS", 
+            "value": 37
+          }, 
+          {
+            "key": "FITOTECNIA", 
+            "value": 3
+          }, 
+          {
+            "key": "MEDICINA VETERINÁRIA", 
+            "value": 13
+          }, 
+          {
+            "key": "RECURSOS PESQUEIROS E ENGENHARIA DE PESCA", 
+            "value": 34
+          }, 
+          {
+            "key": "ZOOTECNIA", 
+            "value": 1
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS BIOLÓGICAS", 
+        "values": [
+          {
+            "key": "BIOLOGIA GERAL", 
+            "value": 7
+          }, 
+          {
+            "key": "BIOQUÍMICA", 
+            "value": 18
+          }, 
+          {
+            "key": "BOTÂNICA", 
+            "value": 18
+          }, 
+          {
+            "key": "ECOLOGIA", 
+            "value": 16
+          }, 
+          {
+            "key": "FARMACOLOGIA", 
+            "value": 22
+          }, 
+          {
+            "key": "FISIOLOGIA", 
+            "value": 25
+          }, 
+          {
+            "key": "MORFOLOGIA", 
+            "value": 1
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS DA SAÚDE", 
+        "values": [
+          {
+            "key": "EDUCAÇÃO FÍSICA", 
+            "value": 48
+          }, 
+          {
+            "key": "ENFERMAGEM", 
+            "value": 18
+          }, 
+          {
+            "key": "FARMÁCIA", 
+            "value": 30
+          }, 
+          {
+            "key": "MEDICINA", 
+            "value": 26
+          }, 
+          {
+            "key": "NUTRIÇÃO", 
+            "value": 15
+          }, 
+          {
+            "key": "ODONTOPEDIATRIA", 
+            "value": 32
+          }, 
+          {
+            "key": "SAÚDE COLETIVA", 
+            "value": 18
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS EXATAS E DA TERRA", 
+        "values": [
+          {
+            "key": "CIÊNCIA DA COMPUTAÇÃO", 
+            "value": 20
+          }, 
+          {
+            "key": "FÍSICA", 
+            "value": 26
+          }, 
+          {
+            "key": "MATEMÁTICA", 
+            "value": 11
+          }, 
+          {
+            "key": "METEOROLOGIA", 
+            "value": 1
+          }, 
+          {
+            "key": "OCEANOGRAFIA BIOLÓGICA", 
+            "value": 1
+          }, 
+          {
+            "key": "QUÍMICA", 
+            "value": 51
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS HUMANAS", 
+        "values": [
+          {
+            "key": "ANTROPOLOGIA", 
+            "value": 18
+          }, 
+          {
+            "key": "EDUCAÇÃO", 
+            "value": 88
+          }, 
+          {
+            "key": "FILOSOFIA", 
+            "value": 34
+          }, 
+          {
+            "key": "GEOGRAFIA", 
+            "value": 26
+          }, 
+          {
+            "key": "HISTÓRIA", 
+            "value": 7
+          }, 
+          {
+            "key": "HISTÓRIA DO BRASIL", 
+            "value": 31
+          }, 
+          {
+            "key": "OUTRAS SOCIOLOGIAS ESPECÍFICAS", 
+            "value": 33
+          }, 
+          {
+            "key": "PSICOLOGIA", 
+            "value": 25
+          }, 
+          {
+            "key": "SOCIOLOGIA", 
+            "value": 2
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS SOCIAIS APLICADAS", 
+        "values": [
+          {
+            "key": "ADMINISTRAÇÃO", 
+            "value": 38
+          }, 
+          {
+            "key": "ARQUITETURA E URBANISMO", 
+            "value": 28
+          }, 
+          {
+            "key": "CIÊNCIA DA INFORMAÇÃO", 
+            "value": 10
+          }, 
+          {
+            "key": "CIÊNCIAS CONTÁBEIS", 
+            "value": 15
+          }, 
+          {
+            "key": "COMUNICAÇÃO", 
+            "value": 15
+          }, 
+          {
+            "key": "DESENHO INDUSTRIAL", 
+            "value": 14
+          }, 
+          {
+            "key": "DIREITO", 
+            "value": 30
+          }, 
+          {
+            "key": "ECONOMIA", 
+            "value": 15
+          }, 
+          {
+            "key": "PLANEJAMENTO URBANO E REGIONAL", 
+            "value": 10
+          }, 
+          {
+            "key": "SERVIÇO SOCIAL", 
+            "value": 11
+          }, 
+          {
+            "key": "TURISMO", 
+            "value": 5
+          }
+        ]
+      }, 
+      {
+        "key": "ENGENHARIAS", 
+        "values": [
+          {
+            "key": "AUTOMAÇÃO ELETRÔNICA DE PROCESSOS ELÉTRICOS E INDUSTRIAIS", 
+            "value": 1
+          }, 
+          {
+            "key": "ENGENHARIA CIVIL", 
+            "value": 39
+          }, 
+          {
+            "key": "ENGENHARIA DE MATERIAIS E METALÚRGICA", 
+            "value": 25
+          }, 
+          {
+            "key": "ENGENHARIA DE PRODUÇÃO", 
+            "value": 20
+          }, 
+          {
+            "key": "ENGENHARIA ELÉTRICA", 
+            "value": 88
+          }, 
+          {
+            "key": "ENGENHARIA MECÂNICA", 
+            "value": 72
+          }, 
+          {
+            "key": "ENGENHARIA QUÍMICA", 
+            "value": 42
+          }, 
+          {
+            "key": "ENGENHARIA SANITÁRIA", 
+            "value": 57
+          }, 
+          {
+            "key": "GARANTIA DE CONTROLE DE QUALIDADE", 
+            "value": 7
+          }, 
+          {
+            "key": "PROCESSOS INDUSTRIAIS DE ENGENHARIA QUÍMICA", 
+            "value": 4
+          }
+        ]
+      }, 
+      {
+        "key": "Grande Area Não Informada", 
+        "values": [
+          {
+            "key": "Área Não Informada", 
+            "value": 7
+          }
+        ]
+      }, 
+      {
+        "key": "LINGÜÍSTICA, LETRAS E ARTES", 
+        "values": [
+          {
+            "key": "ARTES", 
+            "value": 11
+          }, 
+          {
+            "key": "LETRAS", 
+            "value": 100
+          }, 
+          {
+            "key": "LINGÜÍSTICA", 
+            "value": 33
+          }, 
+          {
+            "key": "MÚSICA", 
+            "value": 9
+          }, 
+          {
+            "key": "TEATRO", 
+            "value": 12
+          }
+        ]
+      }, 
+      {
+        "key": "MULTIDISCIPLINAR", 
+        "values": [
+          {
+            "key": "BIOTECNOLOGIA", 
+            "value": 26
+          }, 
+          {
+            "key": "ENGENHARIA/TECNOLOGIA/GESTÃO", 
+            "value": 30
+          }, 
+          {
+            "key": "ENSINO DE CIÊNCIAS E MATEMÁTICA", 
+            "value": 36
+          }, 
+          {
+            "key": "MATERIAIS", 
+            "value": 38
+          }, 
+          {
+            "key": "MEIO AMBIENTE E AGRÁRIAS", 
+            "value": 8
+          }, 
+          {
+            "key": "SAÚDE E BIOLÓGICAS", 
+            "value": 3
+          }, 
+          {
+            "key": "SOCIAIS E HUMANIDADES", 
+            "value": 26
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "key": "SE", 
+    "total": 297, 
+    "values": [
+      {
+        "key": "CIÊNCIAS AGRÁRIAS", 
+        "values": [
+          {
+            "key": "AGRONOMIA", 
+            "value": 28
+          }, 
+          {
+            "key": "CIÊNCIA E TECNOLOGIA DE ALIMENTOS", 
+            "value": 19
+          }, 
+          {
+            "key": "FITOTECNIA", 
+            "value": 1
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS BIOLÓGICAS", 
+        "values": [
+          {
+            "key": "BIOQUÍMICA", 
+            "value": 1
+          }, 
+          {
+            "key": "ECOLOGIA", 
+            "value": 13
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS DA SAÚDE", 
+        "values": [
+          {
+            "key": "FARMÁCIA", 
+            "value": 10
+          }, 
+          {
+            "key": "MEDICINA", 
+            "value": 18
+          }, 
+          {
+            "key": "PEDIATRIA", 
+            "value": 2
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS EXATAS E DA TERRA", 
+        "values": [
+          {
+            "key": "CIÊNCIA DA COMPUTAÇÃO", 
+            "value": 1
+          }, 
+          {
+            "key": "FÍSICA", 
+            "value": 42
+          }, 
+          {
+            "key": "QUÍMICA", 
+            "value": 9
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS HUMANAS", 
+        "values": [
+          {
+            "key": "ANTROPOLOGIA", 
+            "value": 2
+          }, 
+          {
+            "key": "EDUCAÇÃO", 
+            "value": 21
+          }, 
+          {
+            "key": "EDUCAÇÃO ESPECIAL", 
+            "value": 1
+          }, 
+          {
+            "key": "GEOGRAFIA", 
+            "value": 21
+          }, 
+          {
+            "key": "PSICOLOGIA SOCIAL", 
+            "value": 11
+          }, 
+          {
+            "key": "SOCIOLOGIA", 
+            "value": 19
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS SOCIAIS APLICADAS", 
+        "values": [
+          {
+            "key": "COMUNICAÇÃO", 
+            "value": 1
+          }
+        ]
+      }, 
+      {
+        "key": "ENGENHARIAS", 
+        "values": [
+          {
+            "key": "ENGENHARIA CIVIL", 
+            "value": 3
+          }, 
+          {
+            "key": "ENGENHARIA DE MATERIAIS E METALÚRGICA", 
+            "value": 13
+          }, 
+          {
+            "key": "ENGENHARIA QUÍMICA", 
+            "value": 23
+          }
+        ]
+      }, 
+      {
+        "key": "Grande Area Não Informada", 
+        "values": [
+          {
+            "key": "Área Não Informada", 
+            "value": 8
+          }
+        ]
+      }, 
+      {
+        "key": "LINGÜÍSTICA, LETRAS E ARTES", 
+        "values": [
+          {
+            "key": "LETRAS", 
+            "value": 10
+          }, 
+          {
+            "key": "LINGÜÍSTICA", 
+            "value": 1
+          }
+        ]
+      }, 
+      {
+        "key": "MULTIDISCIPLINAR", 
+        "values": [
+          {
+            "key": "ENSINO DE CIÊNCIAS E MATEMÁTICA", 
+            "value": 2
+          }, 
+          {
+            "key": "MEIO AMBIENTE E AGRÁRIAS", 
+            "value": 11
+          }, 
+          {
+            "key": "SAÚDE E BIOLÓGICAS", 
+            "value": 6
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "key": "SP", 
+    "total": 12277, 
+    "values": [
+      {
+        "key": "CIÊNCIAS AGRÁRIAS", 
+        "values": [
+          {
+            "key": "AGRONOMIA", 
+            "value": 322
+          }, 
+          {
+            "key": "ANATOMIA PATOLÓGICA ANIMAL", 
+            "value": 20
+          }, 
+          {
+            "key": "CIÊNCIA DE ALIMENTOS", 
+            "value": 29
+          }, 
+          {
+            "key": "CIÊNCIA E TECNOLOGIA DE ALIMENTOS", 
+            "value": 64
+          }, 
+          {
+            "key": "CLÍNICA VETERINÁRIA", 
+            "value": 36
+          }, 
+          {
+            "key": "ENGENHARIA AGRÍCOLA", 
+            "value": 38
+          }, 
+          {
+            "key": "ENGENHARIA DE ALIMENTOS", 
+            "value": 50
+          }, 
+          {
+            "key": "ENGENHARIA DE ÁGUA E SOLO", 
+            "value": 14
+          }, 
+          {
+            "key": "FITOPATOLOGIA", 
+            "value": 17
+          }, 
+          {
+            "key": "FITOSSANIDADE", 
+            "value": 61
+          }, 
+          {
+            "key": "FITOTECNIA", 
+            "value": 100
+          }, 
+          {
+            "key": "GENÉTICA E MELHORAMENTO DOS ANIMAIS DOMÉSTICOS", 
+            "value": 22
+          }, 
+          {
+            "key": "IRRIGAÇÃO E DRENAGEM", 
+            "value": 26
+          }, 
+          {
+            "key": "MEDICINA VETERINÁRIA", 
+            "value": 152
+          }, 
+          {
+            "key": "MEDICINA VETERINÁRIA PREVENTIVA", 
+            "value": 24
+          }, 
+          {
+            "key": "MELHORAMENTO VEGETAL", 
+            "value": 23
+          }, 
+          {
+            "key": "MICROBIOLOGIA AGRÍCOLA", 
+            "value": 36
+          }, 
+          {
+            "key": "NUTRIÇÃO E ALIMENTAÇÃO ANIMAL", 
+            "value": 8
+          }, 
+          {
+            "key": "PRODUÇÃO ANIMAL", 
+            "value": 33
+          }, 
+          {
+            "key": "PRODUÇÃO E BENEFICIAMENTO DE SEMENTES", 
+            "value": 14
+          }, 
+          {
+            "key": "RECURSOS FLORESTAIS E ENGENHARIA FLORESTAL", 
+            "value": 37
+          }, 
+          {
+            "key": "RECURSOS PESQUEIROS E ENGENHARIA DE PESCA", 
+            "value": 24
+          }, 
+          {
+            "key": "TECNOLOGIA DE ALIMENTOS", 
+            "value": 18
+          }, 
+          {
+            "key": "ZOOTECNIA", 
+            "value": 90
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS BIOLÓGICAS", 
+        "values": [
+          {
+            "key": "ANATOMIA", 
+            "value": 18
+          }, 
+          {
+            "key": "BIOFÍSICA", 
+            "value": 18
+          }, 
+          {
+            "key": "BIOLOGIA GERAL", 
+            "value": 92
+          }, 
+          {
+            "key": "BIOLOGIA MOLECULAR", 
+            "value": 42
+          }, 
+          {
+            "key": "BIOQUÍMICA", 
+            "value": 82
+          }, 
+          {
+            "key": "BOTÂNICA", 
+            "value": 120
+          }, 
+          {
+            "key": "ECOLOGIA", 
+            "value": 92
+          }, 
+          {
+            "key": "FARMACOLOGIA", 
+            "value": 125
+          }, 
+          {
+            "key": "FISIOLOGIA", 
+            "value": 89
+          }, 
+          {
+            "key": "GENÉTICA", 
+            "value": 185
+          }, 
+          {
+            "key": "HISTOLOGIA", 
+            "value": 21
+          }, 
+          {
+            "key": "IMUNOLOGIA", 
+            "value": 35
+          }, 
+          {
+            "key": "MICROBIOLOGIA", 
+            "value": 56
+          }, 
+          {
+            "key": "MORFOLOGIA", 
+            "value": 52
+          }, 
+          {
+            "key": "PARASITOLOGIA", 
+            "value": 36
+          }, 
+          {
+            "key": "ZOOLOGIA", 
+            "value": 124
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS DA SAÚDE", 
+        "values": [
+          {
+            "key": "ALERGOLOGIA E IMUNOLOGIA CLÍNICA", 
+            "value": 16
+          }, 
+          {
+            "key": "ANATOMIA PATOLÓGICA E PATOLOGIA CLÍNICA", 
+            "value": 103
+          }, 
+          {
+            "key": "ANESTESIOLOGIA", 
+            "value": 23
+          }, 
+          {
+            "key": "CANCEROLOGIA", 
+            "value": 64
+          }, 
+          {
+            "key": "CARDIOLOGIA", 
+            "value": 43
+          }, 
+          {
+            "key": "CIRURGIA", 
+            "value": 150
+          }, 
+          {
+            "key": "CIRURGIA BUCO-MAXILO-FACIAL", 
+            "value": 12
+          }, 
+          {
+            "key": "CIRURGIA EXPERIMENTAL", 
+            "value": 16
+          }, 
+          {
+            "key": "CIRURGIA OTORRINOLARINGOLOGIA", 
+            "value": 50
+          }, 
+          {
+            "key": "CIRURGIA PLÁSTICA E RESTAURADORA", 
+            "value": 3
+          }, 
+          {
+            "key": "CIRURGIA UROLÓGICA", 
+            "value": 35
+          }, 
+          {
+            "key": "CLÍNICA MÉDICA", 
+            "value": 134
+          }, 
+          {
+            "key": "CLÍNICA ODONTOLÓGICA", 
+            "value": 68
+          }, 
+          {
+            "key": "DERMATOLOGIA", 
+            "value": 21
+          }, 
+          {
+            "key": "DOENÇAS INFECCIOSAS E PARASITÁRIAS", 
+            "value": 88
+          }, 
+          {
+            "key": "EDUCAÇÃO FÍSICA", 
+            "value": 68
+          }, 
+          {
+            "key": "ENDOCRINOLOGIA", 
+            "value": 33
+          }, 
+          {
+            "key": "ENDODONTIA", 
+            "value": 12
+          }, 
+          {
+            "key": "ENFERMAGEM", 
+            "value": 148
+          }, 
+          {
+            "key": "FARMÁCIA", 
+            "value": 190
+          }, 
+          {
+            "key": "FISIOTERAPIA E TERAPIA OCUPACIONAL", 
+            "value": 40
+          }, 
+          {
+            "key": "FONOAUDIOLOGIA", 
+            "value": 94
+          }, 
+          {
+            "key": "GASTROENTEROLOGIA", 
+            "value": 41
+          }, 
+          {
+            "key": "GINECOLOGIA E OBSTETRÍCIA", 
+            "value": 153
+          }, 
+          {
+            "key": "HEMATOLOGIA", 
+            "value": 19
+          }, 
+          {
+            "key": "MATERIAIS ODONTOLÓGICOS", 
+            "value": 48
+          }, 
+          {
+            "key": "MEDICINA", 
+            "value": 176
+          }, 
+          {
+            "key": "MEDICINA PREVENTIVA", 
+            "value": 41
+          }, 
+          {
+            "key": "NEFROLOGIA", 
+            "value": 48
+          }, 
+          {
+            "key": "NEUROLOGIA", 
+            "value": 72
+          }, 
+          {
+            "key": "NUTRIÇÃO", 
+            "value": 43
+          }, 
+          {
+            "key": "ODONTOLOGIA", 
+            "value": 399
+          }, 
+          {
+            "key": "ODONTOPEDIATRIA", 
+            "value": 44
+          }, 
+          {
+            "key": "OFTALMOLOGIA", 
+            "value": 35
+          }, 
+          {
+            "key": "ORTODONTIA", 
+            "value": 27
+          }, 
+          {
+            "key": "ORTOPEDIA", 
+            "value": 47
+          }, 
+          {
+            "key": "PEDIATRIA", 
+            "value": 99
+          }, 
+          {
+            "key": "PNEUMOLOGIA", 
+            "value": 23
+          }, 
+          {
+            "key": "PSIQUIATRIA", 
+            "value": 101
+          }, 
+          {
+            "key": "RADIOLOGIA MÉDICA", 
+            "value": 63
+          }, 
+          {
+            "key": "RADIOLOGIA ODONTOLÓGICA", 
+            "value": 48
+          }, 
+          {
+            "key": "REUMATOLOGIA", 
+            "value": 19
+          }, 
+          {
+            "key": "SAÚDE COLETIVA", 
+            "value": 47
+          }, 
+          {
+            "key": "SAÚDE PÚBLICA", 
+            "value": 27
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS EXATAS E DA TERRA", 
+        "values": [
+          {
+            "key": "ANÁLISE DE TRAÇOS E QUÍMICA AMBIENTAL", 
+            "value": 2
+          }, 
+          {
+            "key": "ASTRONOMIA", 
+            "value": 36
+          }, 
+          {
+            "key": "CIÊNCIA DA COMPUTAÇÃO", 
+            "value": 152
+          }, 
+          {
+            "key": "ESTATÍSTICA", 
+            "value": 43
+          }, 
+          {
+            "key": "FÍSICA", 
+            "value": 284
+          }, 
+          {
+            "key": "FÍSICO-QUÍMICA", 
+            "value": 24
+          }, 
+          {
+            "key": "GEOCIÊNCIAS", 
+            "value": 140
+          }, 
+          {
+            "key": "GEOFÍSICA", 
+            "value": 14
+          }, 
+          {
+            "key": "GEOLOGIA", 
+            "value": 51
+          }, 
+          {
+            "key": "MATEMÁTICA", 
+            "value": 114
+          }, 
+          {
+            "key": "MATEMÁTICA APLICADA", 
+            "value": 59
+          }, 
+          {
+            "key": "METEOROLOGIA", 
+            "value": 18
+          }, 
+          {
+            "key": "OCEANOGRAFIA BIOLÓGICA", 
+            "value": 24
+          }, 
+          {
+            "key": "PROBABILIDADE E ESTATÍSTICA", 
+            "value": 14
+          }, 
+          {
+            "key": "QUÍMICA", 
+            "value": 345
+          }, 
+          {
+            "key": "QUÍMICA ORGÂNICA", 
+            "value": 4
+          }, 
+          {
+            "key": "SENSORIAMENTO REMOTO", 
+            "value": 35
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS HUMANAS", 
+        "values": [
+          {
+            "key": "ANTROPOLOGIA", 
+            "value": 62
+          }, 
+          {
+            "key": "CIÊNCIA POLÍTICA", 
+            "value": 61
+          }, 
+          {
+            "key": "EDUCAÇÃO", 
+            "value": 506
+          }, 
+          {
+            "key": "EDUCAÇÃO ESPECIAL", 
+            "value": 28
+          }, 
+          {
+            "key": "ENSINO-APRENDIZAGEM", 
+            "value": 26
+          }, 
+          {
+            "key": "FILOSOFIA", 
+            "value": 93
+          }, 
+          {
+            "key": "GEOGRAFIA", 
+            "value": 72
+          }, 
+          {
+            "key": "HISTÓRIA", 
+            "value": 176
+          }, 
+          {
+            "key": "POLÍTICA INTERNACIONAL", 
+            "value": 19
+          }, 
+          {
+            "key": "PSICOBIOLOGIA", 
+            "value": 30
+          }, 
+          {
+            "key": "PSICOLOGIA", 
+            "value": 139
+          }, 
+          {
+            "key": "PSICOLOGIA DO ENSINO E DA APRENDIZAGEM", 
+            "value": 18
+          }, 
+          {
+            "key": "PSICOLOGIA EXPERIMENTAL", 
+            "value": 37
+          }, 
+          {
+            "key": "PSICOLOGIA SOCIAL", 
+            "value": 48
+          }, 
+          {
+            "key": "SOCIOLOGIA", 
+            "value": 155
+          }, 
+          {
+            "key": "TEOLOGIA", 
+            "value": 108
+          }, 
+          {
+            "key": "TRATAMENTO E PREVENÇÃO PSICOLÓGICA", 
+            "value": 82
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS SOCIAIS APLICADAS", 
+        "values": [
+          {
+            "key": "ADMINISTRAÇÃO", 
+            "value": 168
+          }, 
+          {
+            "key": "ADMINISTRAÇÃO DE EMPRESAS", 
+            "value": 19
+          }, 
+          {
+            "key": "ARQUITETURA E URBANISMO", 
+            "value": 82
+          }, 
+          {
+            "key": "CIÊNCIA DA INFORMAÇÃO", 
+            "value": 22
+          }, 
+          {
+            "key": "CIÊNCIAS CONTÁBEIS", 
+            "value": 26
+          }, 
+          {
+            "key": "COMUNICAÇÃO", 
+            "value": 165
+          }, 
+          {
+            "key": "DEMOGRAFIA", 
+            "value": 10
+          }, 
+          {
+            "key": "DESENHO INDUSTRIAL", 
+            "value": 16
+          }, 
+          {
+            "key": "DIREITO", 
+            "value": 123
+          }, 
+          {
+            "key": "ECONOMIA", 
+            "value": 89
+          }, 
+          {
+            "key": "ECONOMIA AGRÁRIA", 
+            "value": 24
+          }, 
+          {
+            "key": "HISTÓRIA ECONÔMICA", 
+            "value": 4
+          }, 
+          {
+            "key": "PLANEJAMENTO URBANO E REGIONAL", 
+            "value": 6
+          }, 
+          {
+            "key": "SERVIÇO SOCIAL", 
+            "value": 34
+          }, 
+          {
+            "key": "TURISMO", 
+            "value": 4
+          }
+        ]
+      }, 
+      {
+        "key": "ENGENHARIAS", 
+        "values": [
+          {
+            "key": "CONSTRUÇÃO CIVIL", 
+            "value": 11
+          }, 
+          {
+            "key": "ENGENHARIA AEROESPACIAL", 
+            "value": 105
+          }, 
+          {
+            "key": "ENGENHARIA BIOMÉDICA", 
+            "value": 44
+          }, 
+          {
+            "key": "ENGENHARIA CIVIL", 
+            "value": 152
+          }, 
+          {
+            "key": "ENGENHARIA DE MATERIAIS E METALÚRGICA", 
+            "value": 90
+          }, 
+          {
+            "key": "ENGENHARIA DE MINAS", 
+            "value": 15
+          }, 
+          {
+            "key": "ENGENHARIA DE PRODUÇÃO", 
+            "value": 134
+          }, 
+          {
+            "key": "ENGENHARIA DE TRANSPORTES", 
+            "value": 56
+          }, 
+          {
+            "key": "ENGENHARIA ELÉTRICA", 
+            "value": 323
+          }, 
+          {
+            "key": "ENGENHARIA MECÂNICA", 
+            "value": 221
+          }, 
+          {
+            "key": "ENGENHARIA NAVAL E OCEÂNICA", 
+            "value": 12
+          }, 
+          {
+            "key": "ENGENHARIA NUCLEAR", 
+            "value": 51
+          }, 
+          {
+            "key": "ENGENHARIA QUÍMICA", 
+            "value": 152
+          }, 
+          {
+            "key": "ENGENHARIA SANITÁRIA", 
+            "value": 45
+          }, 
+          {
+            "key": "ESTRUTURAS", 
+            "value": 32
+          }, 
+          {
+            "key": "PLANEJAMENTO E ORGANIZAÇÃO DO SISTEMA DE TRANSPORTE", 
+            "value": 5
+          }, 
+          {
+            "key": "SISTEMAS DE TELECOMUNICAÇÕES", 
+            "value": 6
+          }
+        ]
+      }, 
+      {
+        "key": "Grande Area Não Informada", 
+        "values": [
+          {
+            "key": "Área Não Informada", 
+            "value": 378
+          }
+        ]
+      }, 
+      {
+        "key": "LINGÜÍSTICA, LETRAS E ARTES", 
+        "values": [
+          {
+            "key": "ARTES", 
+            "value": 70
+          }, 
+          {
+            "key": "LETRAS", 
+            "value": 201
+          }, 
+          {
+            "key": "LINGÜÍSTICA", 
+            "value": 74
+          }, 
+          {
+            "key": "LINGÜÍSTICA APLICADA", 
+            "value": 71
+          }, 
+          {
+            "key": "LITERATURA BRASILEIRA", 
+            "value": 6
+          }, 
+          {
+            "key": "LITERATURA COMPARADA", 
+            "value": 21
+          }, 
+          {
+            "key": "LITERATURAS ESTRANGEIRAS MODERNAS", 
+            "value": 12
+          }, 
+          {
+            "key": "LÍNGUA PORTUGUESA", 
+            "value": 56
+          }, 
+          {
+            "key": "LÍNGUAS ESTRANGEIRAS MODERNAS", 
+            "value": 6
+          }, 
+          {
+            "key": "MÚSICA", 
+            "value": 23
+          }, 
+          {
+            "key": "OUTRAS LITERATURAS VERNÁCULAS", 
+            "value": 13
+          }, 
+          {
+            "key": "TEORIA LITERARIA", 
+            "value": 17
+          }
+        ]
+      }, 
+      {
+        "key": "MULTIDISCIPLINAR", 
+        "values": [
+          {
+            "key": "BIOTECNOLOGIA", 
+            "value": 118
+          }, 
+          {
+            "key": "ENGENHARIA/TECNOLOGIA/GESTÃO", 
+            "value": 85
+          }, 
+          {
+            "key": "ENSINO", 
+            "value": 3
+          }, 
+          {
+            "key": "ENSINO DE CIÊNCIAS E MATEMÁTICA", 
+            "value": 113
+          }, 
+          {
+            "key": "MATERIAIS", 
+            "value": 93
+          }, 
+          {
+            "key": "MEIO AMBIENTE E AGRÁRIAS", 
+            "value": 46
+          }, 
+          {
+            "key": "SAÚDE E BIOLÓGICAS", 
+            "value": 46
+          }, 
+          {
+            "key": "SOCIAIS E HUMANIDADES", 
+            "value": 84
+          }
+        ]
+      }
+    ]
+  }, 
+  {
+    "key": "TO", 
+    "total": 309, 
+    "values": [
+      {
+        "key": "CIÊNCIAS AGRÁRIAS", 
+        "values": [
+          {
+            "key": "AGRONOMIA", 
+            "value": 19
+          }, 
+          {
+            "key": "CIÊNCIA DO SOLO", 
+            "value": 1
+          }, 
+          {
+            "key": "ENGENHARIA DE PROCESSAMENTO DE PRODUTOS AGRÍCOLAS", 
+            "value": 13
+          }, 
+          {
+            "key": "FITOTECNIA", 
+            "value": 1
+          }, 
+          {
+            "key": "MEDICINA VETERINÁRIA", 
+            "value": 2
+          }, 
+          {
+            "key": "MELHORAMENTO VEGETAL", 
+            "value": 1
+          }, 
+          {
+            "key": "RECURSOS FLORESTAIS E ENGENHARIA FLORESTAL", 
+            "value": 1
+          }, 
+          {
+            "key": "ZOOTECNIA", 
+            "value": 22
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS BIOLÓGICAS", 
+        "values": [
+          {
+            "key": "ECOLOGIA", 
+            "value": 9
+          }, 
+          {
+            "key": "FISIOLOGIA", 
+            "value": 1
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS DA SAÚDE", 
+        "values": [
+          {
+            "key": "FARMÁCIA", 
+            "value": 1
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS EXATAS E DA TERRA", 
+        "values": [
+          {
+            "key": "GEOCIÊNCIAS", 
+            "value": 1
+          }, 
+          {
+            "key": "MATEMÁTICA APLICADA", 
+            "value": 1
+          }, 
+          {
+            "key": "PROBABILIDADE E ESTATÍSTICA", 
+            "value": 1
+          }, 
+          {
+            "key": "QUÍMICA", 
+            "value": 1
+          }, 
+          {
+            "key": "SISTEMA DE COMPUTAÇÃO", 
+            "value": 15
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS HUMANAS", 
+        "values": [
+          {
+            "key": "EDUCAÇÃO", 
+            "value": 37
+          }, 
+          {
+            "key": "EDUCAÇÃO DE ADULTOS", 
+            "value": 1
+          }, 
+          {
+            "key": "GEOGRAFIA", 
+            "value": 16
+          }, 
+          {
+            "key": "HISTÓRIA", 
+            "value": 18
+          }, 
+          {
+            "key": "HISTÓRIA LATINO-AMERICANA", 
+            "value": 1
+          }, 
+          {
+            "key": "SOCIOLOGIA", 
+            "value": 17
+          }
+        ]
+      }, 
+      {
+        "key": "CIÊNCIAS SOCIAIS APLICADAS", 
+        "values": [
+          {
+            "key": "ADMINISTRAÇÃO", 
+            "value": 15
+          }, 
+          {
+            "key": "COMUNICAÇÃO", 
+            "value": 12
+          }, 
+          {
+            "key": "ECONOMIA AGRÁRIA", 
+            "value": 1
+          }, 
+          {
+            "key": "PLANEJAMENTO URBANO E REGIONAL", 
+            "value": 17
+          }, 
+          {
+            "key": "TECNOLOGIA DE ARQUITETURA E URBANISMO", 
+            "value": 1
+          }
+        ]
+      }, 
+      {
+        "key": "ENGENHARIAS", 
+        "values": [
+          {
+            "key": "ENGENHARIA DE PRODUÇÃO", 
+            "value": 1
+          }, 
+          {
+            "key": "ENGENHARIA ELÉTRICA", 
+            "value": 30
+          }, 
+          {
+            "key": "ENGENHARIA QUÍMICA", 
+            "value": 1
+          }
+        ]
+      }, 
+      {
+        "key": "Grande Area Não Informada", 
+        "values": [
+          {
+            "key": "Área Não Informada", 
+            "value": 4
+          }
+        ]
+      }, 
+      {
+        "key": "LINGÜÍSTICA, LETRAS E ARTES", 
+        "values": [
+          {
+            "key": "LETRAS", 
+            "value": 2
+          }, 
+          {
+            "key": "LINGÜÍSTICA", 
+            "value": 26
+          }, 
+          {
+            "key": "TEORIA LITERARIA", 
+            "value": 1
+          }
+        ]
+      }, 
+      {
+        "key": "MULTIDISCIPLINAR", 
+        "values": [
+          {
+            "key": "ENSINO DE CIÊNCIAS E MATEMÁTICA", 
+            "value": 1
+          }, 
+          {
+            "key": "MEIO AMBIENTE E AGRÁRIAS", 
+            "value": 15
+          }, 
+          {
+            "key": "SAÚDE E BIOLÓGICAS", 
+            "value": 2
+          }
+        ]
+      }
+    ]
+  }
+]
