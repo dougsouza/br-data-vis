@@ -90,7 +90,7 @@ function quartile(data){
 	
     legenda = [];
 	$.each(quartis,function(index,quartil){
-		legenda.push('De ' + quartil.inicio + ' até ' + quartil.fim);
+		legenda.push(quartil.inicio + ' - ' + quartil.fim);
 	});
 		
 	return quartis;
@@ -121,7 +121,7 @@ function update_map(year)
         map.updateChoropleth(obj);
         $(".datamaps-legend").remove();
         map.legend({
-            defaultFillName: 'Sem dados',
+            defaultFillName: 'No data',
             labels: {
                 Low: legenda[0],
                 Medium: legenda[1],
