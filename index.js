@@ -13,11 +13,12 @@ slider.addEventListener("input", function() {
 
 
 // MAP VISUALIZATION
+var legenda = [];
 var map = new Datamap({
     element: document.getElementById('map-container'),
     geographyConfig: {
         dataUrl: '/br-atlas/topo/br-states.json',
-        highlightBorderColor: '#bada55',
+        highlightBorderColor: '#ccc',
         popupTemplate: function(geography, data) {
             return '<div class="hoverinfo">' + geography.properties.name + '<br /> Número de bolsas: ' +  data.numberOfScholarships + ' ';
         },
@@ -28,12 +29,18 @@ var map = new Datamap({
         var projection, path;
         projection = d3.geo.mercator()
                     .scale(800)
-                    .translate([1050, 150]);
+                    .translate([1200, 150]);
         path = d3.geo.path().projection( projection );
 
         return {path: path, projection: projection};
     },
-    fills: {LOW: '#ff3456'},
+    fills: {
+        defaultFill: '#FADBD8',
+        Low: '#F5B7B1',
+        Medium: '#F1948A',
+        High: '#EC7063',
+        Higher: '#E74C3C'
+	},
     done: function(datamap) {
         datamap.svg.selectAll('.datamaps-subunit').on('click', function(geography) {
             update_details(geography.properties.name, geography.id, slider.value);
@@ -41,17 +48,87 @@ var map = new Datamap({
     }
 });
 
+function quartile(data){
+	// gera amostra
+	var  amostra = [];
+	for (var x in data){
+		amostra.push(data[x].total);
+	}
+ 
+	// ordena
+	amostra.sort(function( a , b ){
+		return a-b;
+	});
+		
+	var n = amostra.length;
+		
+	var q3 =Math.round(n *3 / 4) ;
+	var q2 =Math.round(n / 2) -1;
+	var q1 =Math.round(n / 4)-1;
+ 
+	if (n<4) {
+		q3 = n-1;
+	}
+	
+	var quartis = [];  
+	quartis.push({inicio : 1, fim : amostra[q1]});
+	quartis.push({inicio : amostra[q1]+1, fim : amostra[q2]});
+	quartis.push({inicio : amostra[q2]+1, fim : amostra[q3]});
+	quartis.push({inicio : amostra[q3]+1, fim : amostra[amostra.length-1]});
+ 
+	quartis = quartis.filter(function(value,index,self){
+		return !(isNaN(value.inicio) || typeof(value.fim) =='undefined');
+	});
+	
+	quartis = quartis.filter(function(value,index,self){
+		if (index==0) return true; 
+		return value.fim > quartis[index-1].fim;
+	});
+	
+	if (quartis.length==0 && amostra.length!=0)
+		quartis.push({inicio : 1, fim : amostra[amostra.length-1]});
+	
+    legenda = [];
+	$.each(quartis,function(index,quartil){
+		legenda.push('De ' + quartil.inicio + ' até ' + quartil.fim);
+	});
+		
+	return quartis;
+}
+
 function update_map(year)
 {
     var file_name = "br-data/bolsas_" + year + ".json";
+    var coresQuartis = ['Low', 'Medium', 'High', 'Higher'];
+
     $.get(file_name, function(data) {
         var obj = {};
+
+        //calcular os quartis para usar com as cores
+        var quartis = quartile(data);
+        var cor = 'defaultFill';
+
         for(var i=0; i < data.length; i++){
-            obj[data[i].key] = {numberOfScholarships: data[i].total, 'fillKey': 'LOW'};
+
+            $.each(quartis,function(index,quartil){
+                cor = (data[i].total >= quartil.inicio && data[i].total <= quartil.fim) ? coresQuartis[index] : cor;
+            });
+
+            obj[data[i].key] = {numberOfScholarships: data[i].total, 'fillKey': cor};
         }
 
         // update map
         map.updateChoropleth(obj);
+        $(".datamaps-legend").remove();
+        map.legend({
+            defaultFillName: 'Sem dados',
+            labels: {
+                Low: legenda[0],
+                Medium: legenda[1],
+                High: legenda[2],
+                Higher: legenda[3],
+            }
+        });
     });
 }
 // ---------------
@@ -81,7 +158,7 @@ function update_details(state, postal, year)
 /* TREEMAP VARIABLES */
 var margin = {top:24, right:15, bottom:0, left:0},
     title_height = 36 + 16,
-    width = $("#details-container").width(),
+    width = $("#details-container").width() - 15,
     height = $("#details-container").height() * 0.95,
     format_number = d3.format(",d"),
     transitioning;
@@ -171,12 +248,12 @@ function treemap_layout(treemap, d)
     if (d._children) {
         treemap.nodes({_children: d._children});
         d._children.forEach(function(c) {
-        c.x = d.x + c.x * d.dx;
-        c.y = d.y + c.y * d.dy;
-        c.dx *= d.dx;
-        c.dy *= d.dy;
-        c.parent = d;
-        treemap_layout(treemap, c);
+            c.x = d.x + c.x * d.dx;
+            c.y = d.y + c.y * d.dy;
+            c.dx *= d.dx;
+            c.dy *= d.dy;
+            c.parent = d;
+            treemap_layout(treemap, c);
         });
     }
 }
@@ -210,6 +287,20 @@ function treemap_name(d)
     return d.parent
         ? treemap_name(d.parent) + " / " + d.key + " (" + format_number(d.value) + ")"
         : d.key + " (" + format_number(d.value) + ")";
+}
+
+function treemap_update(file_name)
+{
+    var postal = "RS";
+    d3.json(file_name, function(data) {
+            for(var i=0; i<data.length; i++)
+            {
+                if(data[i].key == postal)
+                {
+                    break;
+                }
+            }
+        });
 }
 
 function treemap_display(d)
@@ -307,7 +398,6 @@ function treemap_display(d)
 
 
 // INITIALIZATION
-map.legend();
 update_map(slider.value);
 slider_num.innerHTML = slider.value;
 state_name.innerHTML = "Select a state for a detailed view";

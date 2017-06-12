@@ -48,14 +48,14 @@ html, body {
 
 /* MAP VISUALIZATION */
 #map-container {
-    background-color: #f3f3f3;
+    background-color: #ffffff;
 }
 /* ---------- */
 
 
 /* DETAILS VISUALIZATION */
 #details-container {
-    background-color: #f3f3f3;
+    background-color: #ffffff;
 }
 
 #details-state-name {
