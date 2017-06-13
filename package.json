@@ -1,6 +1,6 @@
 {
   "name": "brazil-data-vis",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "scripts": {
     "start": "node server.js"
   },
@@ -11,5 +11,17 @@
     "express": "^4.15.3",
     "topojson": "^1.6.9"
   },
-  "devDependencies": {}
+  "devDependencies": {},
+  "description": "To run: 1. `git clone https://github.com/dougsouza/brazil-data-vis.git` 2. `cd brazil-data-vis` 3. `npm install` 4. `npm start` 5. go to http://localhost:3001",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dougsouza/brazil-data-vis.git"
+  },
+  "author": "Douglas Souza",
+  "bugs": {
+    "url": "https://github.com/dougsouza/brazil-data-vis/issues"
+  },
+  "homepage": "https://github.com/dougsouza/brazil-data-vis#readme",
+  "license": "ISC"
 }

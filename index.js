@@ -25,11 +25,20 @@ var map = new Datamap({
         highlightBorderWidth: 2
     },
     scope: 'states',
+    responsive: true,
     setProjection: function(element, options) {
+        console.log('set projection called');
         var projection, path;
+        // debugger;
+        var width = $('#map-container').outerWidth();
+        var height = $('#map-container').outerHeight();
         projection = d3.geo.mercator()
-                    .scale(800)
-                    .translate([1200, 150]);
+                    .center([-50.449219, -16.197794])
+                    .scale(500)
+                    .translate([element.offsetWidth / 2, element.offsetHeight / 2]);
+       
+
+
         path = d3.geo.path().projection( projection );
 
         return {path: path, projection: projection};
@@ -47,6 +56,10 @@ var map = new Datamap({
         });
     }
 });
+
+window.onresize = function(){
+    map.resize();
+}
 
 function quartile(data){
 	// gera amostra
